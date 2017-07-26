@@ -3,25 +3,25 @@
     <string name="app_name">"文件管理器+"</string>
 
     <!-- folder -->
-    <string name="filetype_folder">"文件夹"</string>
+    <string name="filetype_folder">"資料夾"</string>
 
     <!-- file -->
-    <string name="filetype_file">"文件"</string>
+    <string name="filetype_file">"檔案"</string>
 
     <!-- menu for search -->
-    <string name="menu_search">"搜索"</string>
+    <string name="menu_search">"搜尋"</string>
 
     <!-- menu for new file or folder -->
-    <string name="menu_new">"新建"</string>
+    <string name="menu_new">"新增"</string>
 
     <!-- file option in new dialog -->
-    <string name="menu_new_file">"文件"</string>
+    <string name="menu_new_file">"檔案"</string>
 
     <!-- folder option in new dialog -->
-    <string name="menu_new_folder">"文件夹"</string>
+    <string name="menu_new_folder">"資料夾"</string>
 
     <!-- menu for adding new file location -->
-    <string name="menu_add">"添加"</string>
+    <string name="menu_add">"新增"</string>
 
     <!-- paste menu for copied files -->
     <string name="menu_paste">"贴上"</string>
