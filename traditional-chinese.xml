@@ -27,76 +27,76 @@
     <string name="menu_paste">"贴上"</string>
 
     <!-- bookmark menu -->
-    <string name="menu_bookmark">"书签"</string>
+    <string name="menu_bookmark">"書籤"</string>
 
     <!-- file browsing history -->
-    <string name="menu_history">"历史"</string>
+    <string name="menu_history">"歷史記錄"</string>
 
     <!-- settings -->
-    <string name="menu_settings">"设置"</string>
+    <string name="menu_settings">"設定"</string>
 
     <!-- view settings : grid view, list view. and sort order -->
-    <string name="menu_view_settings">"视图设置"</string>
+    <string name="menu_view_settings">"畫面設定"</string>
 
     <!-- chart (graph) view of disk analysis -->
-    <string name="menu_chart">"图表"</string>
+    <string name="menu_chart">"圖表"</string>
 
     <string name="menu_list">"列表"</string>
 
     <!-- menu for refresh -->
-    <string name="menu_refresh">"刷新"</string>
+    <string name="menu_refresh">"更新"</string>
 
     <!-- menu for add new location -->
     <string name="menu_add_location">"新位置"</string>
 
     <!-- menu for add new remote location : ftp, nas, ... -->
-    <string name="menu_add_remote">"添加远程位置"</string>
+    <string name="menu_add_remote">"新增遠端位置"</string>
 
     <!-- menu for add new cloud location : dropbox, google drive, onedrive -->
-    <string name="menu_add_cloud">"添加网络存储空间"</string>
+    <string name="menu_add_cloud">"新增網路儲存空間"</string>
 
     <!-- menu for copy : ctrl + c in windows explorer -->
-    <string name="menu_copy">"复制"</string>
+    <string name="menu_copy">"複製"</string>
 
     <!-- menu for cut : crtrl + x in windows explorer -->
     <string name="menu_cut">"剪下"</string>
 
     <!-- menu for move -->
-    <string name="menu_move">"移动"</string>
+    <string name="menu_move">"移動"</string>
 
     <!-- menu for deleting file -->
-    <string name="menu_delete">"删除"</string>
+    <string name="menu_delete">"刪除"</string>
 
     <!-- Pin (as in to a bulletin board with a pushpin) a resolver
              target to the front of the list. -->
-    <string name="menu_pin">"钉住"</string>
+    <string name="menu_pin">"釘選"</string>
 
         <!-- menu for renaming file -->
-    <string name="menu_rename">"重命名"</string>
+    <string name="menu_rename">"重新命名"</string>
 
     <!-- menu for add bookmark -->
-    <string name="menu_add_bookmark">"添加书签"</string>
+    <string name="menu_add_bookmark">"加入書籤"</string>
 
     <!-- menu for compressing files to archive file (like .zip) -->
-    <string name="menu_compress">"压缩"</string>
+    <string name="menu_compress">"壓縮"</string>
 
     <!-- menu for extracting an archive file like (.zip) -->
-    <string name="menu_extract">"解压"</string>
+    <string name="menu_extract">"解壓縮"</string>
 
     <!-- menu for extract all files in an archive file -->
-    <string name="menu_extract_all">"解压所有"</string>
+    <string name="menu_extract_all">"全部解壓縮"</string>
 
     <!-- menu for show properties of file -->
-    <string name="menu_properties">"属性"</string>
+    <string name="menu_properties">"屬性"</string>
 
     <!-- menu for share -->
     <string name="menu_share">"分享"</string>
 
     <!-- menu for more -->
-    <string name="menu_more">"更多"</string>
+    <string name="menu_more">"其他"</string>
 
     <!-- menu for select all -->
-    <string name="menu_select_all">"全选"</string>
+    <string name="menu_select_all">"全選"</string>
 
     <!-- Install menu for apps -->
     <string name="menu_install">"安装"</string>
@@ -105,10 +105,10 @@
     <string name="menu_uninstall">"卸载"</string>
 
     <!-- backup menu -->
-    <string name="menu_backup">"备份"</string>
+    <string name="menu_backup">"備份"</string>
 
     <!-- menu for adding shortcut to Home screen (Launcher) -->
-    <string name="menu_add_to_home_screen">"添加桌面"</string>
+    <string name="menu_add_to_home_screen">"新增至主畫面"</string>
 
     <!-- The title of the menu item to let user set the image as background etc. [CHAR LIMIT=15] -->
     <string name="set_as">"设置为"</string>
