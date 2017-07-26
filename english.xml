@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- App Name : This is file manager app. It is following terms in the microsoft explorer program in windows PC. -->
+    <string name="app_name">File Manager +</string>
+
+    <!-- folder -->
+    <string name="filetype_folder">Folder</string>
+
+    <!-- file -->
+    <string name="filetype_file">File</string>
+
+    <!-- menu for search -->
+    <string name="menu_search">Search</string>
+
+    <!-- menu for new file or folder -->
+    <string name="menu_new">New</string>
+
+    <!-- file option in new dialog -->
+    <string name="menu_new_file">File</string>
+
+    <!-- folder option in new dialog -->
+    <string name="menu_new_folder">Folder</string>
+
+    <!-- menu for adding new file location -->
+    <string name="menu_add">Add</string>
+
+    <!-- paste menu for copied files -->
+    <string name="menu_paste">Paste</string>
+
+    <!-- bookmark menu -->
+    <string name="menu_bookmark">Bookmark</string>
+
+    <!-- file browsing history -->
+    <string name="menu_history">History</string>
+
+    <!-- settings -->
+    <string name="menu_settings">Settings</string>
+
+    <!-- view settings : grid view, list view. and sort order -->
+    <string name="menu_view_settings">View Settings</string>
+
+    <!-- chart (graph) view of disk analysis -->
+    <string name="menu_chart">Chart</string>
+
+    <string name="menu_list">List</string>
+
+    <!-- menu for refresh -->
+    <string name="menu_refresh">Refresh</string>
+
+    <!-- menu for add new location -->
+    <string name="menu_add_location">New Location</string>
+
+    <!-- menu for add new remote location : ftp, nas, ... -->
+    <string name="menu_add_remote">Add a remote location</string>
+
+    <!-- menu for add new cloud location : dropbox, google drive, onedrive -->
+    <string name="menu_add_cloud">Add a cloud location</string>
+
+    <!-- menu for copy : ctrl + c in windows explorer -->
+    <string name="menu_copy">Copy</string>
+
+    <!-- menu for cut : crtrl + x in windows explorer -->
+    <string name="menu_cut">Cut</string>
+
+    <!-- menu for move -->
+    <string name="menu_move">Move</string>
+
+    <!-- menu for deleting file -->
+    <string name="menu_delete">Delete</string>
+
+    <!-- Pin (as in to a bulletin board with a pushpin) a resolver
+             target to the front of the list. -->
+    <string name="menu_pin">Pin</string>
+
+    <!-- menu for renaming file -->
+    <string name="menu_rename">Rename</string>
+
+    <!-- menu for add bookmark -->
+    <string name="menu_add_bookmark">Add Bookmark</string>
+
+    <!-- menu for compressing files to archive file (like .zip) -->
+    <string name="menu_compress">Compress</string>
+
+    <!-- menu for extracting an archive file like (.zip) -->
+    <string name="menu_extract">Extract</string>
+
+    <!-- menu for extract all files in an archive file -->
+    <string name="menu_extract_all">Extract All</string>
+
+    <!-- menu for show properties of file -->
+    <string name="menu_properties">Properties</string>
+
+    <!-- menu for share -->
+    <string name="menu_share">Share</string>
+
+    <!-- menu for more -->
+    <string name="menu_more">More</string>
+
+    <!-- menu for select all -->
+    <string name="menu_select_all">Select All</string>
+
+    <!-- Install menu for apps -->
+    <string name="menu_install">Install</string>
+
+    <!-- menu for uninstall -->
+    <string name="menu_uninstall">Uninstall</string>
+
+    <!-- backup menu -->
+    <string name="menu_backup">Backup</string>
+
+    <!-- menu for adding shortcut to Home screen (Launcher) -->
+    <string name="menu_add_to_home_screen">Add to Home screen</string>
+
+    <!-- The title of the menu item to let user set the image as background etc. [CHAR LIMIT=15] -->
+    <string name="set_as">Set as</string>
+
+    <!-- String used as a menu label. The user can choose to edit the file [CHAR_LIMIT=20]-->
+    <string name="menu_edit">Edit</string>
+
+    <!-- title for the tab of downloaded apps -->
+    <string name="apps_downloaded">DOWNLOADED</string>
+
+    <!-- title for the tab of all apps -->
+    <string name="apps_all">ALL</string>
+
+    <!-- home location -->
+    <string name="location_home">Home</string>
+
+    <!-- local location : file locations in the device -->
+    <string name="location_local">Local</string>
+
+    <!-- System location -->
+    <string name="location_system">System</string>
+
+    <!-- Main storage location -->
+    <string name="location_mainstorage">Main storage</string>
+
+    <!-- sdcard location -->
+    <string name="location_sdcard">SD card</string>
+
+    <!-- device's internal storage -->
+    <string name="location_internal_storage">Internal storage</string>
+
+    <!-- download folder location -->
+    <string name="location_download">Downloads</string>
+
+    <!-- USB storage lcoation -->
+    <string name="location_usbstorage">USB storage</string>
+
+    <!-- location for libraries : video, image, text.. -->
+    <string name="location_library">Library</string>
+
+    <!-- loccation for pictures -->
+    <string name="location_picture">Pictures</string>
+
+    <!-- location for image files -->
+    <string name="location_images">Images</string>
+
+    <!-- location for music files -->
+    <string name="location_music">Music</string>
+
+    <!-- location for audio files -->
+    <string name="location_audio">Audio</string>
+
+    <!-- location for video files -->
+    <string name="location_video">Videos</string>
+
+    <!-- location for document files -->
+    <string name="location_document">Documents</string>
+
+    <!-- location for text files -->
+    <string name="location_text">Text</string>
+
+    <!-- location for presentation files like ppt -->
+    <string name="location_presentation">Presentations</string>
+
+    <!-- location for spreadsheets files like excel -->
+    <string name="location_spreadsheet">Spreadsheets</string>
+
+    <!-- location for archive files : compressed files -->
+    <string name="location_archive">Archives</string>
+
+    <!-- location for bookmarked files -->
+    <string name="location_favorite">Bookmark</string>
+
+    <!-- location for recent changed files -->
+    <string name="location_recent_files">Recent Files</string>
+
+    <!-- location for newly created files -->
+    <string name="location_new_files">New Files</string>
+
+    <!-- location for remote servers : ftp, ftps, nas, smb -->
+    <string name="location_remote">Remote</string>
+
+    <!-- FTP -->
+    <string name="location_ftp">FTP</string>
+
+    <!-- SFTP -->
+    <string name="location_sftp">SFTP</string>
+
+    <!-- FTPS -->
+    <string name="location_ftps">FTPS</string>
+
+    <!-- location for local network : example) windows shared folders -->
+    <string name="location_lan">Local Network</string>
+
+    <!-- location for cloud like dropbox, google drive, onedrive -->
+    <string name="location_cloud">Cloud</string>
+
+    <!-- dropbox -->
+    <string name="location_dropbox">Dropbox</string>
+
+    <!-- google drive -->
+    <string name="location_googledrive">Google Drive</string>
+
+    <!-- Microsoft OneDrive -->
+    <string name="location_onedrive">OneDrive</string>
+
+    <!-- Yandex Disk -->
+    <string name="location_yandex">Yandex</string>
+
+    <!-- Box cloud service -->
+    <string name="location_box">Box</string>
+
+    <!-- location for installed apps -->
+    <string name="location_app">Apps</string>
+
+    <!-- location for versatile file management tools -->
+    <string name="location_tool">Tools</string>
+
+    <!-- location to enable access files from the pc (need to be short) -->
+    <string name="location_server">Access from PC</string>
+
+    <!-- location for disk analysis -->
+    <string name="location_analysis">Storage Analysis</string>
+
+    <!-- archive (compressed file) viewer -->
+    <string name="location_archive_viewer">Archive Viewer</string>
+
+
+    <!-- storage is not accessible by user now -->
+    <string name="storage_not_available">Not available</string>
+
+    <!-- download folder -->
+    <string name="folder_downloads">Downloads</string>
+
+    <!-- backups folder -->
+    <string name="folder_backups">Backups</string>
+
+    <!-- camera folder -->
+    <string name="folder_camera">Camera</string>
+
+    <!-- documents folder -->
+    <string name="folder_documents">Documents</string>
+
+    <!-- music folder -->
+    <string name="folder_music">Music</string>
+
+    <!-- movies folder -->
+    <string name="folder_movies">Movies</string>
+
+    <!-- pictures folder -->
+    <string name="folder_pictures">Pictures</string>
+
+    <!-- screenshots folder-->
+    <string name="folder_screenshots">Screenshots</string>
+
+    <!-- podcasts download folder -->
+    <string name="folder_podcasts">Podcasts</string>
+
+    <!-- ringtones folder -->
+    <string name="folder_ringtones">Ringtones</string>
+
+    <!-- alarm audio files folder -->
+    <string name="folder_alarms">Alarms</string>
+
+    <!-- notification audio files folder -->
+    <string name="folder_notifications">Notifications</string>
+
+    <!-- tltle for opened windows -->
+    <string name="open_windows">OPEN WINDOWS</string>
+
+    <!-- title for create folder dialog -->
+    <string name="dialog_title_new_folder">Create Folder</string>
+
+    <!-- title for create file dialog -->
+    <string name="dialog_title_new_file">Create File</string>
+
+    <!-- title for properties dialog -->
+    <string name="dialog_title_file_properties">Properties</string>
+
+
+    <!-- title of dialog for compress operation  -->
+    <string name="dialog_title_compress_file">Compress</string>
+
+    <!-- title of dialog for extract to some location operation  -->
+    <string name="dialog_title_extract_file">Extract To</string>
+
+    <!-- title of dialog to choose remote locations -->
+    <string name="dialog_title_choose_remote">Remote</string>
+
+    <!-- title of dialog to choose cloud locations -->
+    <string name="dialog_title_choose_cloud">Cloud</string>
+
+    <!-- title of dialog for download operation -->
+    <string name="dialog_title_download_file">Download</string>
+
+    <!-- title of dialog for rename operation -->
+    <string name="dialog_title_rename_file">Rename</string>
+
+    <!-- title of dialog for upload operation -->
+    <string name="dialog_title_upload_file">Upload</string>
+
+    <!-- title of dialog for bookmark operation -->
+    <string name="dialog_title_bookmark">Bookmark</string>
+
+    <!--title of dialog for delete files and other kinds of items -->
+    <string name="dialog_title_delete">Delete</string>
+
+    <!--  title of dialog for add bookmark -->
+    <string name="dialog_title_add_bookmark">Add Bookmark</string>
+
+    <!-- tile of dialog for history -->
+    <string name="dialog_title_history">History</string>
+
+    <!-- title of dialog for add to desktop -->
+    <string name="dialog_title_add_shortcut">Add to Desktop</string>
+
+    <!-- title of dialog for network status -->
+    <string name="dialog_title_network_status">Network Status</string>
+
+    <!-- (example) updating abcd.zip -->
+    <string name="dialog_title_zip_update">Updating <xliff:g id="filename">%s</xliff:g></string>
+
+    <!-- dialog title for choosing extract path -->
+    <string name="dialog_title_choose_extract_path">Choose extract path</string>
+
+    <!-- dialog title for choosing local network -->
+    <string name="dialog_title_choose_local_network">Choose local network</string>
+
+    <!-- dialog title for share via -->
+    <string name="dialog_title_share">Share via</string>
+
+    <!-- dialog title for hint or instructions to add sdcard location -->
+    <string name="dialog_title_hint">Hint</string>
+
+    <!-- dialog title of confirm -->
+    <string name="dialog_title_confirm">Confirm</string>
+
+    <!-- dialog tilte of failure results -->
+    <string name="dialog_title_failure">Failure</string>
+
+    <!-- dialog button for overwrite file -->
+    <string name="dialog_button_overwrite">Overwrite</string>
+
+    <!-- dialog button for skip copying file -->
+    <string name="dialog_button_skip">Skip</string>
+
+    <!-- dialog button for renaming file -->
+    <string name="dialog_button_rename">Rename</string>
+
+    <!-- dialog checkbox for apply to all files -->
+    <string name="dialog_button_apply_to_all">Apply to all</string>
+
+    <!-- menu button to clear something. (example) clear history -->
+    <string name="menu_clear">Clear</string>
+
+    <!-- dialog button to add remote location -->
+    <string name="dialog_button_add_remote">Add Remote</string>
+
+    <!-- dialog ubtton to add cloud location -->
+    <string name="dialog_button_add_cloud">Add Cloud</string>
+
+    <!-- diallog button for cancel -->
+    <string name="dialog_button_cancel">Cancel</string>
+
+    <!-- dialog button for paste files -->
+    <string name="dialog_button_paste">Paste</string>
+
+    <!-- dialog button for hide dialog -->
+    <string name="dialog_button_hide">Hide</string>
+
+    <!-- refresh button -->
+    <string name="dialog_button_refresh">Refresh</string>
+
+    <!-- manual input for network information -->
+    <string name="dialog_button_manual_input">Manual input</string>
+
+    <!-- extract here button -->
+    <string name="dialog_button_extract_here">Extract here</string>
+
+    <!-- file type label in property dialog: type is folder or file-->
+    <string name="dialog_entry_type">Type</string>
+
+    <!-- file size label in properties dialog -->
+    <string name="dialog_entry_size">Size</string>
+
+    <!-- Contents of the folder in the properties dialog : ex) Contents - Folder : 626, File : 323 -->
+    <string name="dialog_entry_contents">Contents</string>
+
+    <!-- modified time label in properties dialog -->
+    <string name="dialog_entry_modified">Modified</string>
+
+    <!-- permissions label in properties dialog -->
+    <string name="dialog_entry_permissions">Permissions</string>
+
+    <!-- hidden file label in properties dialog -->
+    <string name="dialog_entry_hidden">Hidden</string>
+
+    <!-- file path label in properties dialog -->
+    <string name="dialog_entry_path">Path</string>
+
+    <!-- resolution label in properties dialog for image fies -->
+    <string name="dialog_entry_resolution">Resolution</string>
+
+    <!-- duration label in properties dialog for video or audio files -->
+    <string name="dialog_entry_duration">Duration</string>
+
+    <!-- network domain (ex:www.google.com) in network dialog -->
+    <string name="dialog_entry_domain">Domain</string>
+
+    <!-- network host (ex:www.google.com) in remote network dialog -->
+    <string name="dialog_entry_host">Host</string>
+
+    <!-- network port number label for network dialog -->
+    <string name="dialog_entry_port">Port</string>
+
+    <!-- random network port number for ftp server -->
+    <string name="dialog_entry_random_port">Random Port Number</string>
+
+    <!-- mode label for network dialog -->
+    <string name="dialog_entry_mode">Mode</string>
+
+    <!-- security mode label for network dialog -->
+    <string name="dialog_entry_security">Security Mode</string>
+
+    <!-- username label for network dialog -->
+    <string name="dialog_entry_username">Username</string>
+
+    <!-- password label for password dialog -->
+    <string name="dialog_entry_password">Password</string>
+
+    <!-- anonymous username for ftp -->
+    <string name="dialog_entry_anonymous">Anonymous</string>
+
+    <!-- display name label for network location -->
+    <string name="dialog_entry_display">Display Name</string>
+
+    <!-- select a category for search -->
+    <string name="dialog_entry_category">Select a category</string>
+
+
+    <!-- search results nclude all files -->
+    <string name="dialog_entry_category_none">All</string>
+    <string name="dialog_entry_category_picture">Picture</string>
+    <string name="dialog_entry_category_image">Image</string>
+    <string name="dialog_entry_category_music">Music</string>
+    <string name="dialog_entry_category_audio">Audio</string>
+    <string name="dialog_entry_category_video">Video</string>
+    <string name="dialog_entry_category_document">Document</string>
+    <string name="dialog_entry_category_archive">Archive</string>
+    <string name="filetype_others">Others</string>
+
+    <!-- is file hidden yes -->
+    <string name="hidden_yes">Yes</string>
+
+    <!-- is file hidden no -->
+    <string name="hidden_no">No</string>
+
+    <!-- file has read permission -->
+    <string name="permission_read">Read</string>
+
+    <!-- file has write permission -->
+    <string name="permission_write">Write</string>
+
+    <!-- wifi status -->
+    <string name="server_wifi_status">Wi-Fi Status</string>
+
+    <!-- start button to start process to enable ftp service  -->
+    <string name="server_button_start">Start</string>
+
+    <!-- stop button to stop ftp service -->
+    <string name="server_button_stop">Stop service</string>
+
+    <!-- connect button to wifi access point -->
+    <string name="server_button_connect_to_wifi">Connect</string>
+
+    <!-- msg for instructions to access file from pc -->
+    <string name="server_msg_follow_instructions">"Please follow instructions below to access the device storage from PC"</string>
+
+    <string name="server_msg_connect_to_wifi">Connect to Wi-Fi before starting the service.</string>
+    <string name="server_msg_start_service">Start the service to access files from PC.</string>
+    <string name="server_msg_enter_address">Enter the above address in a web browser on PC.</string>
+
+    <string name="dialog_hint_host">e.g. 192.168.1.101</string>
+    <string name="dialog_hint_host_and_root">Example: 192.168.1.101 or 192.168.1.101/Folder</string>
+
+    <!-- show this entry is optional field -->
+    <string name="dialog_hint_optional">Optional</string>
+
+    <!-- message to confirm uninstall apps -->
+    <string name="msg_uninstall_app">Do you want to uninstall following apps?</string>
+
+    <!-- message for overwrite existing file confirm dialog -->
+    <string name="msg_overwrite_file"><xliff:g id="filename">%s</xliff:g> already exists. Do you want to overwrite?</string>
+
+    <!-- error message for file copy to subfolder of original folder -->
+    <string name="msg_subfolder_of_source">Target folder is a subfolder of the source folder.</string>
+
+    <!-- error message for source and targe is same -->
+    <string name="msg_is_same_file">Target is the same as the source.</string>
+
+    <!-- error message for name is used by other folder and source is file -->
+    <string name="msg_same_folder_name_differnt_type">There is already a folder with the same name as the source file name.</string>
+
+    <!-- error message for name is used by other file and source is folder -->
+    <string name="msg_same_file_name_differnt_type">There is already a file with the same name as the source folder name.</string>
+
+    <!-- error message for destination file or folder is already exists -->
+    <string name="dialog_msg_file_exists">Destination already exists</string>
+
+    <!-- success message for creating folder -->
+    <string name="dialog_msg_create_folder_success">Folder is created successfully</string>
+
+    <!-- failure message for creating folder -->
+    <string name="dialog_msg_create_folder_failure">Failed to create a folder</string>
+
+    <!-- success message for creating file -->
+    <string name="dialog_msg_create_file_success">File is created successfully</string>
+
+    <!-- failure message for creating file -->
+    <string name="dialog_msg_create_file_failure">Failed to create a file</string>
+
+    <!-- success message for renaming file -->
+    <string name="dialog_msg_rename_file_success">Renamed successfully</string>
+
+    <!-- failure message for renaming file -->
+    <string name="dialog_msg_rename_file_failure">Failed to rename</string>
+
+    <string name="dialog_msg_add_bookmark_success">Bookmark is created successfully</string>
+    <string name="dialog_msg_delete_bookmark_success">Bookmark [<xliff:g id="bookmarkname">%s</xliff:g>] is deleted successfully</string>
+    <string name="dialog_msg_rename_bookmark_success">Renamed successfully</string>
+
+    <string name="dialog_msg_connecting">Retrieving the connection info&#8230;</string>
+    <string name="dialog_msg_connected">Wi-Fi is connected to <b><xliff:g id="wifiname">%s</xliff:g></b></string>
+    <string name="dialog_msg_connecting_to">Connecting to <xliff:g id="wifiname">%s</xliff:g></string>
+    <string name="dialog_msg_wifi_available"><xliff:g id="wifiname">%s</xliff:g> is available</string>
+    <string name="dialog_msg_not_connected">Wi-Fi is not connected</string>
+    <string name="dialog_msg_service_stop">"The service will be stopped"</string>
+    <string name="wifi">Wi-Fi</string>
+
+    <!-- msg for preparing delete files -->
+    <string name="dialog_msg_prepare_delete">Preparing delete files...</string>
+
+    <!-- storage analysis -->
+    <string name="storage_analysis">Storage Analysis</string>
+
+    <!-- button to start storage anlysis -->
+    <string name="analyze">Analyze</string>
+    <string name="analysis_folder"><xliff:g id="number" example="1">%d</xliff:g> folder</string>
+    <string name="analysis_folders"><xliff:g id="number" example="3">%d</xliff:g> folders</string>
+    <string name="analysis_file"><xliff:g id="number" example="1">%d</xliff:g> file</string>
+    <string name="analysis_files"><xliff:g id="number" example="3">%d</xliff:g> files</string>
+
+    <!-- Indicate available size of storage. ex. '3.54 GB free' -->
+    <string name="free_size">%s free</string>
+
+    <!-- Indicate used percent of storage. ex. '95% used'-->
+    <string name="used_percent">%s used</string>
+
+    <!-- title for large files list -->
+    <string name="large_files">Large files</string>
+
+    <!-- description of large files ex) Files larger than 10MB -->
+    <string name="large_files_desc">Files larger than <xliff:g id="size" example="10 MB">%s</xliff:g></string>
+
+    <!-- title for large folders list -->
+    <string name="large_folders">Large folders</string>
+    <!-- description of large folders ex) Folders larger than 10MB -->
+    <string name="large_folders_desc">Folders larger than <xliff:g id="size" example="10 MB">%s</xliff:g></string>
+
+    <string name="newly_created_files">Newly created files</string>
+    <!-- ex) Files created within 7 days -->
+    <string name="newly_created_files_desc">Files created within <xliff:g id="days" example="7">%d</xliff:g> days</string>
+
+    <!-- Cache files for apps -->
+    <string name="app_caches">Cache files</string>
+    <!-- description of cache files -->
+    <string name="app_caches_desc">Cache files are temporary files that are stored by your apps</string>
+
+    <!-- Title of dialog asking user to confirm before clearing all caches. [CHAR LIMIT=48] -->
+    <string name="clear_cache_title">Clear cache files?</string>
+    <!-- Message of dialog asking user to confirm before clearing all caches. [CHAR LIMIT=48] -->
+    <string name="clear_cache_message">This will clear cache files for all apps.</string>
+
+    <!-- button to browse files -->
+    <string name="browse">Browse</string>
+
+    <!-- button to open file -->
+    <string name="open">Open</string>
+
+    <string name="loading">Loading&#8230;</string>
+    <string name="deleting">Deleting&#8230;</string>
+    <string name="delete_failed">Failed to delete files</string>
+    <string name="delete_cancelled">Delete cancelled</string>
+    <string name="copy_failed">Failed to copy files</string>
+    <string name="move_failed">Failed to move files</string>
+
+    <!-- Message of notification. The app is playing multimedia (video or audio) file. -->
+    <string name="playing_multimedia">Playing multimedia</string>
+
+    <!-- Use this string to rename when name is already exists.. abc.zip -. abc - Copy.zip -->
+    <string name="copy_postfix">" - Copy"</string>
+    <string name="extracted">Successfully extracted <xliff:g id="path">%s</xliff:g></string>
+    <string name="extract_failed">Failed to extract <xliff:g id="path">%s</xliff:g></string>
+    <!-- file or folder is empty : adjective -->
+    <string name="empty">Empty</string>
+    <!-- folder is empty : adjective  -->
+    <string name="empty_folder">Empty Folder</string>
+    <string name="loading_error">Loading Error!</string>
+    <string name="check_network">Check your network connection</string>
+    <string name="access_denied">Access denied</string>
+    <string name="icon">icon</string>
+    <string name="extract_here">Extract here</string>
+    <string name="extract_to">Extract to ...</string>
+    <string name="extract_to_file_name">Extract to <xliff:g id="path">%s</xliff:g></string>
+
+    <!-- ftp server terms : don't translate when you not sure what it is -->
+    <string name="active">Active</string>
+
+    <!-- ftp server terms : don't translate when you not sure what it is -->
+    <string name="passive">Passive</string>
+
+    <!-- ftp server terms : don't translate when you not sure what it is -->
+    <string name="implicit">Implicit</string>
+
+    <!-- ftp server terms : don't translate when you not sure what it is -->
+    <string name="explicit">Explicit</string>
+
+    <string name="uninstalled_one">Uninstalled <xliff:g id="number" example="1">%d</xliff:g> app successfully</string>
+    <string name="uninstalled">Uninstalled <xliff:g id="number" example="3">%d</xliff:g> apps successfully</string>
+    <string name="backed_up_one">App is backed up at <xliff:g id="path">%s</xliff:g></string>
+    <string name="backed_up">Apps are backed up at <xliff:g id="path">%s</xliff:g></string>
+    <string name="port_in_use">Port <xliff:g id="port" example="1014">%d</xliff:g> is in use. Please choose a different number.</string>
+    <string name="enter_port_number">Please, enter the port number.</string>
+    <string name="invalid_username_password">Invalid username or password.</string>
+    <string name="connection_failed_with_user">Cannot connect to <xliff:g id="servername">%1$s</xliff:g> with user <xliff:g id="username">%2$s</xliff:g>.</string>
+    <string name="connection_failed">Cannot connect to <xliff:g id="servername">%s</xliff:g>.</string>
+
+    <!-- Storage analysis result : used / total (percent%) : (example) 250G / 500G (50%) -->
+    <string name="space">%1$s / %2$s (%3$d%%)</string>
+    <string name="compress_failed">Compress failed</string>
+    <string name="download_complete">Download complete</string>
+    <string name="download_failed">Download failed</string>
+    <string name="download_cancelled">Download cancelled</string>
+    <string name="upload_complete">Upload complete</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="upload_cancelled">Upload cancelled</string>
+    <string name="paste_cancelled">Paste cancelled</string>
+    <string name="compress_cancelled">Compress cancelled</string>
+    <string name="rename_cancelled">Rename cancelled</string>
+    <string name="create_complete">Create complete</string>
+    <string name="create_cancelled">Create cancelled</string>
+    <string name="extract_cancelled">Extract cancelled</string>
+
+    <!-- dialog title that shows it is copying files now -->
+    <string name="progress_copying">Copying</string>
+
+    <!-- dialog title that shows it is moving files now -->
+    <string name="progress_moving">Moving</string>
+
+    <!-- dialog title that shows it is deleting files now -->
+    <string name="progress_deleting">Deleting</string>
+
+    <string name="progress_compressing">Compressing</string>
+    <string name="progress_extracting">Extracting</string>
+    <string name="progress_downloading">Downloading</string>
+
+    <!-- from path. (example)  From :  /storage/download/abc.zip -->
+    <string name="from">From : <xliff:g id="path">%s</xliff:g></string>
+    <!-- to path. (example)  To :  /storage/download/abc2.zip -->
+    <string name="to">To : <xliff:g id="path">%s</xliff:g></string>
+
+    <!-- file operation progress status. (example) Progress: 5/200 -->
+    <string name="progress_count">Progress : <xliff:g id="count">%s</xliff:g></string>
+
+    <!-- Shows how many file operations are running. If there are 2 copy operations are running, it shows "Running jobs : 2" -->
+    <string name="running_progress_size">Running jobs : <xliff:g id="count">%d</xliff:g></string>
+    <string name="file_size">%1$s\n(%2$s bytes)</string>
+    <string name="folder_name_cannot_be_empty">Folder name cannot be empty.</string>
+    <string name="file_name_cannot_be_empty">File name cannot be empty.</string>
+
+    <!-- file operations are ongoing -->
+    <string name="ongoing">Ongoing</string>
+    <string name="hint_document_tree_sdcard">Please allow the app to access the SD card first by following instructions below.</string>
+    <string name="hint_document_tree_usb">Please allow the app to access the USB storage first by following instructions below.</string>
+
+    <!-- Instruction to allow app to access sdcard -->
+    <string name="hint_document_tree_steps_1">1. Tap the menu button(☰) in the top left corner.</string>
+    <string name="hint_document_tree_steps_2_sdcard">2. Tap the SD card in the side menu</string>
+    <string name="hint_document_tree_steps_2_usb">2. Tap the USB storage in the side menu</string>
+    <string name="hint_document_tree_steps_3">3. Tap the select button at the bottom</string>
+
+    <!-- The selected folder is not the root folder(top folder) of the sd card  -->
+    <string name="document_tree_failed_not_root_sdcard">The selected folder is not the root of the SD card. Please try again.</string>
+    <string name="document_tree_failed_not_sdcard">The selected storage is not the SD card. Please try again.</string>
+    <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
+    <string name="document_tree_for_operation_sdcard">You need to allow access to the SD card for the operation.</string>
+
+    <string name="document_tree_failed_not_root_usb">The selected folder is not the root of the USB storage. Please try again.</string>
+    <string name="document_tree_failed_not_usb">The selected storage is not the USB storage. Please try again.</string>
+    <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
+    <string name="document_tree_for_operation_usb">You need to allow access to the USB storage for the operation.</string>
+
+    <string name="include_system_apps">The selected apps include system apps.</string>
+    <string name="file_count">Folder : <xliff:g id="count">%1$d</xliff:g>, File : <xliff:g id="count">%2$d</xliff:g></string>
+    <string name="delete_file_count">Folder : <xliff:g id="count">%1$d</xliff:g>, File : <xliff:g id="count">%2$d</xliff:g>, Size : <xliff:g id="size" example="5MB">%3$s</xliff:g></string>
+    <string name="delete_file_size">Size : <xliff:g id="size" example="5MB">%s</xliff:g></string>
+    <string name="prepare_paste_information">Preparing paste information...</string>
+    <string name="preparing">Preparing...</string>
+
+    <string name="search_hint">Search</string>
+    <string name="search_settings_description">Search Files</string>
+    <string name="search_location">Search : <xliff:g id="storage" example="Main Storage">%1$s</xliff:g></string>
+
+    <string name="no_application">Application is not found</string>
+    <string name="requested_file_not_found">Couldn\'t find the requested file.</string>
+
+    <string name="noti_server_is_on">FTP server is running</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="settings_view">View</string>
+    <string name="settings_sort">Sort</string>
+    <string name="settings_sortby">Sort By</string>
+    <string name="settings_etc">Others</string>
+    <string name="settings_hidden">Show hidden files</string>
+
+    <string name="rate_title">Rate this app</string>
+    <string name="rate_message">If you like this app, please rate us 5 stars on Google Play.</string>
+    <!-- rate options -->
+    <string name="rate_yes">Rate 5★</string>
+    <!-- rate options -->
+    <string name="rate_not_now">Not now</string>
+    <!-- rate options -->
+    <string name="rate_never">Never</string>
+
+    <string name="back_again_to_exit">Press back button again to exit</string>
+    <string name="download_app_to_open_files">Download <xliff:g id="appname" example="ColorNote app">%1$s</xliff:g> to open <xliff:g id="extension" example="jpg">%2$s</xliff:g> files</string>
+    <string name="download_action">Download</string>
+
+    <!-- ex: Main Storage is full (98%) or Sd card is full (95%) -->
+    <string name="storage_is_full"><xliff:g id="storagename" example="Main Storage">%1$s</xliff:g> is full (<xliff:g id="used_percent" example="96%">%2$s</xliff:g>)</string>
+    <string name="storage_clean_up">Clean up</string>
+    <string name="not_enougth_space">There is not enough space on your <xliff:g id="storagename" example="Main Storage">%s</xliff:g></string>
+    <string name="storage_delete_unnecessary_files">"Delete unnecessary files on your %s"</string>
+
+    <string name="file_is_downloaded">"'<xliff:g id="filename">%s</xliff:g>' is downloaded"</string> <!-- abc.jpg is downloaded -->
+    <string name="open_download_folder">Open the download folder</string>
+
+    <string name="photos_today">%d photos taken today</string> <!-- 10 photos taken today -->
+    <string name="see_photos_today">See the photos</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="noti_new_photos">New photos</string>
+    <string name="noti_storage_full">Storage is full</string>
+    <string name="noti_download">Download</string>
+
+    <plurals name="compressed_items_plurals">
+        <item quantity="one">Total <xliff:g id="number">%1$d</xliff:g> item is compressed to <xliff:g id="filename">%2$s</xliff:g></item>
+        <item quantity="other">Total <xliff:g id="number">%1$d</xliff:g> items are compressed to <xliff:g id="filename">%2$s</xliff:g></item>
+    </plurals>
+    <plurals name="extracted_items_plurals">
+        <item quantity="one">Total <xliff:g id="number">%1$d</xliff:g> item is extracted to <xliff:g id="path">%2$s</xliff:g></item>
+        <item quantity="other">Total <xliff:g id="number">%1$d</xliff:g> items are extracted to <xliff:g id="path">%2$s</xliff:g></item>
+    </plurals>
+
+    <!-- Result message for moving single item to other folder -->
+    <string name="moved_single_item">"'<xliff:g id="filename">%1$s</xliff:g>' is moved to <xliff:g id="path">%2$s</xliff:g>"</string>
+    <plurals name="moved_items_plurals">
+        <item quantity="one">Total <xliff:g id="number">%1$d</xliff:g> item is moved to <xliff:g id="path">%2$s</xliff:g></item>
+        <item quantity="other">Total <xliff:g id="number">%1$d</xliff:g> items are moved to <xliff:g id="path">%2$s</xliff:g></item>
+    </plurals>
+
+    <!-- Result message for copying single item to other folder -->
+    <string name="copied_single_item">"'<xliff:g id="filename">%1$s</xliff:g>' is copied to <xliff:g id="path">%2$s</xliff:g>"</string>
+    <plurals name="copied_items_plurals">
+        <item quantity="one">Total <xliff:g id="number">%1$d</xliff:g> item is copied to <xliff:g id="path">%2$s</xliff:g></item>
+        <item quantity="other">Total <xliff:g id="number">%1$d</xliff:g> items are copied to <xliff:g id="path">%2$s</xliff:g></item>
+    </plurals>
+
+    <!-- Result message for deleting single item -->
+    <string name="deleted_single_item">"'<xliff:g id="filename">%s</xliff:g>' is deleted"</string>
+    <plurals name="deleted_items_plurals">
+        <item quantity="one">Total <xliff:g id="number">%1$d</xliff:g> item is deleted</item>
+        <item quantity="other">Total <xliff:g id="number">%1$d</xliff:g> items are deleted</item>
+    </plurals>
+    <string name="confirm_delete_item">"Are you sure you want to delete '<xliff:g id="filename">%s</xliff:g>'?"</string>
+    <plurals name="confirm_delete_items_plurals">
+        <item quantity="one">Are you sure you want to delete this <xliff:g id="number">%d</xliff:g> item?</item> <!-- 11 is in this case in russian -->
+        <item quantity="other">Are you sure you want to delete these <xliff:g id="number">%d</xliff:g> items?</item>
+    </plurals>
+    <plurals name="num_items_plurals">
+        <item quantity="one">1 item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <!-- label for unknown number of items. "1 item", "2 items" for know number. "- items" for unknown numbers -->
+    <string name="num_items_unknown">- items</string>
+
+    <!-- sort options -->
+    <string name="sort_no_sort">No Sort</string>
+    <!-- sort options -->
+    <string name="sort_name_ascend">Name ↑</string>
+    <!-- sort options -->
+    <string name="sort_name_descend">Name ↓</string>
+    <!-- sort options -->
+    <string name="sort_size_ascend">Size ↑</string>
+    <!-- sort options -->
+    <string name="sort_size_descend">Size ↓</string>
+    <!-- sort options -->
+    <string name="sort_date_ascend">Date ↑</string>
+    <!-- sort options -->
+    <string name="sort_date_descend">Date ↓</string>
+    <!-- sort options : File type -->
+    <string name="sort_type_ascend">Type ↑</string>
+    <!-- sort options : File type -->
+    <string name="sort_type_descend">Type ↓</string>
+
+    <!-- error message -->
+    <string name="error">Error</string>
+
+    <!-- error message when file not found -->
+    <string name="error_file_not_found">File not found</string>
+
+    <!-- error message when not enough storage -->
+    <string name="error_not_enough_storage">Not enough storage is available</string>
+
+    <!-- error message when app could not save the file -->
+    <string name="error_file_save">Could not save the file</string>
+
+    <!-- error messaga when app could not load the file -->
+    <string name="error_file_load">Could not load the file</string>
+
+    <!-- error message when app could not update the archive file(compressed file). -->
+    <string name="failed_to_update_archive">Failed to update the archive file</string>
+
+    <!-- error message for the android 4.4 users. Writie to the sdcard in 3rd party apps is not possible in the android 4.4 -->
+    <string name="error_kitkat_sdcard">Writing to the sd card is restricted by the OS in Android 4.4</string>
+
+    <!-- error message -->
+    <string  name="error_too_large_to_open">The file size is too large to open.</string>
+
+    <!-- error message for network error -->
+    <string name="error_network">A network error has occurred.</string>
+
+    <!-- error message -->
+    <string name="error_usb_removed">"USB storage has been removed."</string>
+
+    <!-- error message -->
+    <string name="no_apps_to_open_file">No apps are installed to open this type of file</string>
+
+    <!-- error message -->
+    <string  name="error_not_text_file">Not a text file.</string>
+
+    <!-- Error message in search. App could not show search result because error was raised in search. -->
+    <string name="error_file_search">Failed to search files</string>
+
+    <!-- tried to open archive file (ex. zip, rar, ...) but it could not be opened because it's damaged or in unknown format -->
+    <string name="archive_is_damaged">The archive is either in unknown format or damaged</string>
+
+    <!-- error message for file or directory is corrupted -->
+    <string name="file_corrupted">The file or directory is corrupted and unreadable</string>
+    <!-- ex) NTFS file system is not supported -->
+    <string name="not_supported_filesystem"><xliff:g id="filesystem" example="NTFS">%s</xliff:g> file system is not supported.</string>
+    <!-- external storage device (ex: USB Mass storage) is not recognized, so can't open -->
+    <string name="storage_device_not_recognized">Storage device is not recognized</string>
+
+    <!-- warning over mobile network -->
+    <string name="warning_mobile_network">Total size is <xliff:g id="size" example="100 MB">%s</xliff:g>. Are you sure you want to continue operation over a mobile network?</string>
+
+    <string name="google_account_not_found">Google Account \"<xliff:g id="username" example="user@gmail.com">%s</xliff:g>\" is not found in the device</string>
+    <string name="could_not_access_account">Could not access account information</string>
+
+
+    <!-- settings app: sdcard_settings_not_present_status default -->
+    <string name="no_sdcard">No SD card</string>
+    <!-- settings app: sdcard_settings_mass_storage_status default -->
+    <string name="sdcard_used_as_mass_storage">SD card is being used as a mass storage device.</string>
+    <!-- settings app: sdcard_settings_not_present_status nosdcard -->
+    <string name="usb_storage_no_mount">Main storage not mounted.</string>
+    <!-- settings app: sdcard_settings_mass_storage_status nosdcard -->
+    <string name="usb_storage_used_as_mass_storage">Main storage is being used as a mass storage device.</string>
+
+    <!-- Not Used Anymore -->
+    <string name="clipboard">%1$s %2$s and %3$d more files</string>
+    <string name="clipboard_one">%1$s file %2$s</string>
+    <string name="desktop_add">Add a new location</string>
+    <string name="dialog_hint_domain">Optional domain name</string>
+
+    <!-- msg for opeeration cancelled -->
+    <string name="cancelled">Cancelled</string>
+
+    <!-- title for confirm dialog -->
+    <string name="confirm">Confirm</string>
+
+    <!-- message of confirm dialog to use mobile network -->
+    <string name="confirm_large_file_over_mobile">The file size is too large to access over a mobile network. Do you want to continue?</string>
+
+    <!-- message of confirm dialog to save changes -->
+    <string name="confirm_save">Do you want to save changes?</string>
+
+    <!-- menu for save -->
+    <string name="save">Save</string>
+
+    <!-- menu for do not save -->
+    <string name="dontsave">Don\'t Save</string>
+
+    <!-- text encoding for text files -->
+    <string name="text_encoding">Encoding</string>
+
+    <string name="automatic">Automatic</string>
+
+    <!-- (example) Open as image, Open as video -->
+    <string name="open_as">Open as</string>
+
+    <!-- Menu for open file with other than default application. It's same with 'Open with' menu in windows explorer context menu -->
+    <string name="open_with">Open with</string>
+
+    <!-- Text file -->
+    <string name="text">Text</string>
+
+    <!-- Image file -->
+    <string name="image">Image</string>
+
+    <!-- Audio file -->
+    <string name="audio">Audio</string>
+
+    <!-- Video file -->
+    <string name="video">Video</string>
+
+    <!-- Other files -->
+    <string name="other">Other</string>
+
+    <!-- Server hostname -->
+    <string name="enter_host">Please, enter the hostname.</string>
+
+    <!-- error message for renaming file -->
+    <string name="contains_special_characters">A filename cannot contain any of the following characters: \\ / : * ? \" &lt; &gt; |</string>
+
+    <!-- storage permission request -->
+    <string name="request_storage_permissions">To access local storage, allow permission to access files on your device.</string>
+
+    <!-- request account_permissions -->
+    <string name="request_account_permissions">To access Google Drive, allow permission to access your contacts.</string>
+
+    <!-- permission settings menu -->
+    <string name="permission_settings">Permission Settings</string>
+
+    <!-- General Settings -->
+    <string name="general_settings">General Settings</string>
+
+    <!-- Advanced settings -->
+    <string name="advanced_settings">Advanced Settings</string>
+
+    <!-- settings for notifications -->
+    <string name="notifications_settings">Notifications settings</string>
+
+    <!-- Settings for showing "System" in the storage list, System storage is the space where OS and system applications are installed -->
+    <string name="setting_show_system">Show system storage</string>
+    <string name="show_advanced_menus">Show advanced menus</string>
+
+    <!-- Preference which shows about screen with legal info, etc. [CHAR LIMIT=50] -->
+    <string name="about_preference">About</string>
+
+    <!-- Preference which shows version. [CHAR LIMIT=50] -->
+    <string name="about_version">Version</string>
+
+    <string name="music_player">Music Player</string>
+    <string name="image_viewer">Image Viewer</string>
+    <string name="text_editor">Text editor</string>
+
+    <!-- Use settings for image viewer in the app -->
+    <string name="use_internal_image_viewer">Use internal image viewer</string>
+
+    <!-- Use settings for text editor in the app -->
+    <string name="use_internal_text_editor">Use internal text editor</string>
+
+    <!-- Use settings for music player in the app -->
+    <string name="use_internal_music_player">Use internal music player</string>
+
+    <!-- error message for music player -->
+    <string name="error_no_metadata">Unable to retrieve metadata.</string>
+
+    <!-- desciption of song name in music player -->
+    <string name="currently_playing_song">Song currently playing</string>
+
+    <!-- descriptionp of artist name in music player -->
+    <string name="currently_playing_artist">Artist of currently playing song</string>
+
+    <!-- description of music player -->
+    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+
+    <!-- play or pause button in music player -->
+    <string name="play_pause">play or pause</string>
+
+    <!-- next song button in music player -->
+    <string name="skip_next">skip to next</string>
+
+    <!-- previous song button in music player -->
+    <string name="skip_prev">skip to previous</string>
+
+    <!-- description of albumart in music player -->
+    <string name="background_image_str">Background image for album art</string>
+
+    <!-- title forrecycle bin for files -->
+    <string name="recycle_bin">Recycle Bin</string>
+
+    <!-- message of toast message. recycle bin is empty -->
+    <string name="recycle_bin_is_empty">The Recycle Bin is empty</string>
+
+    <!-- menu for moving files to recycle bin -->
+    <string name="menu_move_to_recycle_bin">Move to Recycle Bin</string>
+
+    <!-- settings for files -->
+    <string name="recycle_bin_settings">Recycle Bin Settings</string>
+
+    <!-- settings for showing 'delete to recycle bin' confirmation dialog -->
+    <string name="recycle_bin_confirmation">Show recycle confirmation</string>
+
+    <!-- Confirmation message for moving single file to recycle bin by filename -->
+    <string name="confirm_recyclebin_single_item">"Are you sure you want to move '<xliff:g id="filename">%s</xliff:g>' to the Recycle Bin?"</string>
+
+    <!-- Confirmation message for moving to recycle bin by item count -->
+    <plurals name="confirm_recyclebin_items_plurals">
+        <item quantity="one">Are you sure you want to move this <xliff:g id="number">%d</xliff:g> item to the Recycle Bin?</item>
+        <item quantity="other">Are you sure you want to move these <xliff:g id="number">%d</xliff:g> items to the Recycle Bin?</item>
+    </plurals>
+
+    <!-- Message for result of moving single file to recycle bin -->
+    <string name="recycled_single_item">"'<xliff:g id="filename">%s</xliff:g>' is moved to the Recycle Bin"</string>
+
+    <!-- Message for result of moving files to recycle bin -->
+    <plurals name="recycled_items_plurals">
+        <item quantity="one">Total <xliff:g id="number">%d</xliff:g> item is moved to the Recycle Bin</item>
+        <item quantity="other">Total <xliff:g id="number">%d</xliff:g> items are moved to the Recycle Bin</item>
+    </plurals>
+
+    <!-- Message for result of restoring single file from the recycle bin -->
+    <string name="restored_single_item">"'<xliff:g id="filename">%s</xliff:g>' is restored from the Recycle Bin"</string>
+
+    <!-- Message for result of restoring files from the recycle bin -->
+    <plurals name="restored_items_plurals">
+        <item quantity="one">Total <xliff:g id="number">%d</xliff:g> item is restored from the Recycle Bin</item>
+        <item quantity="other">Total <xliff:g id="number">%d</xliff:g> items are restored from the Recycle Bin</item>
+    </plurals>
+
+    <string name="restore_failed">Failed to restore files</string>
+
+    <!-- action menu for empty recycle bin short string : verb -->
+    <string name="menu_empty">Empty</string>
+
+    <!-- action menu for empty recycle bin long string : verb -->
+    <string name="empty_recycle_bin">Empty Recycle Bin</string>
+    <string name="empty_recycle_bin_message">Are you sure you want to empty the Recycle Bin?</string>
+
+    <!-- delete permanently instead of moving to recycle bin -->
+    <string name="menu_permanently_delete">Permanently delete</string>
+
+    <!-- Menu for restoring file from the recycle bin -->
+    <string name="menu_restore">Restore</string>
+
+    <!-- Menu for undoing operation (ex: undo delete) -->
+    <string name="menu_undo">Undo</string>
+
+
+    <!-- Recycle progress dialog title. It is sending files to the recycle bin now -->
+    <string name="progress_moving_to_recycle_bin">Recycling</string>
+
+    <!-- Restore progress dialog title. It is restoring files from the recycle bin now -->
+    <string name="progress_restoring_from_recycle_bin">Restoring</string>
+
+    <!-- Message for the recycle bin is full. -->
+    <string name="recycle_bin_full">Recycle bin is full (<xliff:g id="size" example="100MB">%s</xliff:g>)</string>
+
+    <!-- Message for how much size of files deleted to the recycle bin -->
+    <string name="recycle_bin_deleted_size"><xliff:g id="size" example="100MB">%s</xliff:g> files are moved to the Recycle bin</string>
+
+    <!-- Switch On/Off  -->
+    <string name="switch_on_text">On</string>
+    <string name="switch_off_text">Off</string>
+
+    <!-- Scanning storage for media files -->
+    <string name="scanning_for_files">File Scanning...</string>
+
+    <!-- description of storage analysis -->
+    <!--<string name="storage_analysis_description">Storage analysis : You can analyze local storages to clean up useless files. You can find out which files take up the most space.</string>-->
+
+    <!-- retry button -->
+    <string name="retry">Retry</string>
+
+    <!-- Use settings for recycle bin -->
+    <string name="use_recycle_bin">Use recycle bin by default</string>
+
+    <!-- menu for batch (multi) rename -->
+    <string name="menu_batch_rename">Batch Rename</string>
+
+    <!-- Settings for hide/unhide menu -->
+    <string name="settings_hide_unhide">Hide/Unhide</string>
+
+    <!-- menu to hide the item -->
+    <string name="menu_hide">Hide</string>
+
+    <!-- menu to show(unhide) the hidden item -->
+    <string name="menu_unhide">Unhide</string>
+
+    <!-- Setting for selection UI -->
+    <string name="setting_tap_icon_to_select">Tap an icon to select</string>
+
+    <!-- Description of setting for selection UI -->
+    <string name="setting_tap_icon_to_select_desc">Select items by tap on the icon as well as long tap</string>
+
+    <!-- Setting for always show navigation icon -->
+    <string name="setting_always_show_nav_icon">Always show nav icon (☰)</string>
+
+    <!-- noticiation settings. ex) Show when the storage is over 95% full -->
+    <string name="storage_full_threshold_explanation">Show when the storage is over <xliff:g id="percent">%s</xliff:g> full</string>
+
+    <!-- Title of dialog for backup data -->
+    <string name="title_backup">Backup</string>
+
+    <!-- Message for backup failure -->
+    <string name="backup_failed">Failed to backup</string>
+
+    <!-- Confirm dialog message. Local copy of remote or cloud file is changed. Do you want to upload it to the server or cloud? -->
+    <string name="confirm_upload_changed_file">"'<xliff:g id="filename">%s</xliff:g>' is changed. Do you want to upload it?"</string>
+
+    <!-- Confirm dialog message. Archive file (.zip file) is changed. Do you want to update it? -->
+    <string name="confirm_uppdate_changed_archive">"'<xliff:g id="filename">%s</xliff:g>' is changed. Do you want to update it?"</string>
+
+    <!-- error message -->
+    <string name="error_illegal_filename">"File name contains illegal characters"</string>
+
+    <!-- error message -->
+    <string name="error_file_too_large">"File is too large"</string>
+
+    <!-- error message -->
+    <string name="error_unsupported_encryption">"Unsupported Encryption Method"</string>
+
+    <!-- error message -->
+    <string name="error_read_only_delete">"Read only files cannot be deleted"</string>
+
+    <!-- theme -->
+    <string name="title_theme">Theme</string>
+
+    <!-- title for premium version -->
+    <string name="title_premium">Premium</string>
+
+    <!-- menu to Uprade to premium version -->
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+
+    <string name="billed_yearly">Billed Yearly</string>
+
+    <!-- payment description -->
+    <string name="payment_description">"You'll be charged <xliff:g id="price" example="0.99$">%s</xliff:g> yearly until you cancel your subscrption. Previous charges won't be refunded when you cancel unless it's legally required."</string>
+
+    <!-- payment action menu -->
+    <string name="payment_action">Buy Now</string>
+
+    <!-- payment action menu : Promotion Code -->
+    <string name="payment_promo_code">Promo Code</string>
+
+    <!-- Error message : Invalid Promotion code -->
+    <string name="invalid_promo_code">Invalid Promo Code</string>
+
+    <!-- Menu for managing subscription -->
+    <string name="manage_subscription">Manage Subscription</string>
+
+    <!-- menu to remove advertisement -->
+    <string name="remove_ads">Remove Ads</string>
+    <string name="remove_ads_desc">Remove ads in the app</string>
+
+    <!-- Premium expired on ex) Expires on Mar 25, 2017 -->
+    <string name="premium_expires_on">Expires on <xliff:g id="date" example="Mar 25, 2017">%s</xliff:g></string>
+
+    <!-- title for premium features list -->
+    <string name="title_premium_features">Premium Features</string>
+
+    <string name="feature_no_ads_title">No ads</string>
+    <string name="feature_no_ads_desc">No ads are shown in the app</string>
+
+    <string name="feature_theme_title">Theme</string>
+    <string name="feature_theme_desc">Get dark theme</string>
+
+    <string name="feature_support_title">Customer support</string>
+    <string name="feature_support_desc">Get premium customer support</string>
+
+    <!-- payment errors -->
+    <string name="error_payment_server_down">Payment server is down. Please try again later.</string>
+    <string name="error_payment">Payment error, please try again later.</string>
+    <string name="error_payment_server">Payment server error(<xliff:g id="error_code" example="404">%s</xliff:g>). Please try again later.</string>
+    <string name="error_payment_ok_but_failed">Payment OK but failed to upgrade to Premium. Please try again or contact the developer with transaction ID.</string>
+    <string name="error_promo_code_invalid">Promo code is not valid anymore.</string>
+    <string name="error_promo_code_not_found">Promo code is not found.</string>
+
+</resources>
