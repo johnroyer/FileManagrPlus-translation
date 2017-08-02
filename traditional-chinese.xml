@@ -549,29 +549,29 @@
     <string name="wifi">"Wi-Fi"</string>
 
     <!-- msg for preparing delete files -->
-    <string name="dialog_msg_prepare_delete">"准备删除文件中…"</string>
+    <string name="dialog_msg_prepare_delete">"準備刪除文件 ..."</string>
 
     <!-- storage analysis -->
-    <string name="storage_analysis">"主存分析"</string>
+    <string name="storage_analysis">"儲存空間分析"</string>
 
     <!-- button to start storage anlysis -->
     <string name="analyze">"分析"</string>
-    <string name="analysis_folder">"%d 文件夹"</string>
-    <string name="analysis_folders">"%d 文件夹"</string>
-    <string name="analysis_file">"%d 文件"</string>
-    <string name="analysis_files">"%d 文件"</string>
+    <string name="analysis_folder">"%d 資料夾"</string>
+    <string name="analysis_folders">"%d 資料夾"</string>
+    <string name="analysis_file">"%d 檔案"</string>
+    <string name="analysis_files">"%d 檔案"</string>
 
     <!-- Indicate available size of storage. ex. '3.54 GB free' -->
-    <string name="free_size">"%s 可用"</string>
+    <string name="free_size">"%s 可用空間"</string>
 
     <!-- Indicate used percent of storage. ex. '95% used'-->
-    <string name="used_percent">"%s 使用中"</string>
+    <string name="used_percent">"%s 已使用"</string>
 
     <!-- title for large files list -->
-    <string name="large_files">"大文件"</string>
+    <string name="large_files">"大型檔案"</string>
 
     <!-- description of large files ex) Files larger than 10MB -->
-    <string name="large_files_desc">"容量比%s大的文件"</string>
+    <string name="large_files_desc">"大小超過 %s 的檔案"</string>
 
     <!-- title for large folders list -->
     <string name="large_folders">"大文件夹"</string>
