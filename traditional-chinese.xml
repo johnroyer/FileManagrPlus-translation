@@ -536,16 +536,16 @@
     <!-- failure message for renaming file -->
     <string name="dialog_msg_rename_file_failure">"重新命名失败"</string>
 
-    <string name="dialog_msg_add_bookmark_success">"书签创建成功"</string>
-    <string name="dialog_msg_delete_bookmark_success">"书签 [%s] 删除成功"</string>
-    <string name="dialog_msg_rename_bookmark_success">"改名成功"</string>
+    <string name="dialog_msg_add_bookmark_success">"書籤新增成功"</string>
+    <string name="dialog_msg_delete_bookmark_success">"書籤「%s」删除成功"</string>
+    <string name="dialog_msg_rename_bookmark_success">"重新命名成功"</string>
 
-    <string name="dialog_msg_connecting">"检索连接信息中…"</string>
-    <string name="dialog_msg_connected">"Wi-Fi连接到%s"</string>
-    <string name="dialog_msg_connecting_to">"连接到 %s"</string>
-    <string name="dialog_msg_wifi_available">"%s是可用的"</string>
-    <string name="dialog_msg_not_connected">"Wi-Fi没有连接"</string>
-    <string name="dialog_msg_service_stop">"该服务将停止"</string>
+    <string name="dialog_msg_connecting">"接收連線資料中 ..."</string>
+    <string name="dialog_msg_connected">"Wi-Fi 已連上 %s"</string>
+    <string name="dialog_msg_connecting_to">"正在連線到 %s"</string>
+    <string name="dialog_msg_wifi_available">"%s 是可用的"</string>
+    <string name="dialog_msg_not_connected">"Wi-Fi 沒有連線"</string>
+    <string name="dialog_msg_service_stop">"服務即將停止"</string>
     <string name="wifi">"Wi-Fi"</string>
 
     <!-- msg for preparing delete files -->
