@@ -574,23 +574,23 @@
     <string name="large_files_desc">"大小超過 %s 的檔案"</string>
 
     <!-- title for large folders list -->
-    <string name="large_folders">"大文件夹"</string>
+    <string name="large_folders">"大型資料夾"</string>
     <!-- description of large folders ex) Folders larger than 10MB -->
-    <string name="large_folders_desc">"容量比%s大的文件夹"</string>
+    <string name="large_folders_desc">"容量比 %s 還大的資料夾"</string>
 
-    <string name="newly_created_files">"新创建的文件"</string>
+    <string name="newly_created_files">"新建立的檔案"</string>
     <!-- ex) Files created within 7 days -->
-    <string name="newly_created_files_desc">"%d天内创建的文件"</string>
+    <string name="newly_created_files_desc">"%d 天内建立的檔案"</string>
 
     <!-- Cache files for apps -->
-    <string name="app_caches">"缓存文件"</string>
+    <string name="app_caches">"暫存檔"</string>
     <!-- description of cache files -->
-    <string name="app_caches_desc">"缓存文件是您的应用程序里存放的临时文件."</string>
+    <string name="app_caches_desc">"暫存檔是您的應用程式臨時建立的檔案"</string>
 
     <!-- Title of dialog asking user to confirm before clearing all caches. [CHAR LIMIT=48] -->
-    <string name="clear_cache_title">"是否删除缓存文件?"</string>
+    <string name="clear_cache_title">"是否删除暫存檔？"</string>
     <!-- Message of dialog asking user to confirm before clearing all caches. [CHAR LIMIT=48] -->
-    <string name="clear_cache_message">"删除所有应用程序的缓存文件."</string>
+    <string name="clear_cache_message">"即將刪除所有應用程式的暫存檔"</string>
 
     <!-- button to browse files -->
     <string name="browse">"浏览"</string>
