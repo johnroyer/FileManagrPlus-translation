@@ -485,10 +485,10 @@
     <string name="server_button_connect_to_wifi">"連接"</string>
     
     <!-- msg for instructions to access file from pc -->
-    <string name="server_msg_follow_instructions">"請按照下面指示從 PC 存取無存設備"</string>
+    <string name="server_msg_follow_instructions">"請按照下面指示來存取 PC 上的儲存裝置"</string>
 
     <string name="server_msg_connect_to_wifi">"服務啟動前連 Wi-Fi"</string>
-    <string name="server_msg_start_service">"開始在電腦存取儲存設備文件的服務"</string>
+    <string name="server_msg_start_service">"啟動服務以便從 PC 從取資料"</string>
     <string name="server_msg_enter_address">"請在 PC 的網頁瀏覽器上輸入網址"</string>
     
     <string name="dialog_hint_host">"例如 : 192.168.1.101"</string>
