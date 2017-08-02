@@ -135,7 +135,7 @@
     <string name="location_mainstorage">"主要儲存位置"</string>
 
     <!-- sdcard location -->
-    <string name="location_sdcard">"SD卡"</string>
+    <string name="location_sdcard">"SD 卡"</string>
 
     <!-- device's internal storage -->
     <string name="location_internal_storage">"内部儲存設備"</string>
@@ -144,7 +144,7 @@
     <string name="location_download">"下載"</string>
 
     <!-- USB storage lcoation -->
-    <string name="location_usbstorage">"USB儲存設備"</string>
+    <string name="location_usbstorage">"USB 儲存設備"</string>
 
     <!-- location for libraries : video, image, text.. -->
     <string name="location_library">"資料庫"</string>
@@ -219,7 +219,7 @@
     <string name="location_yandex">"Yandex"</string>
 
     <!-- Box cloud service -->
-    <string name="location_box">"箱"</string>
+    <string name="location_box">"Box"</string>
 
     <!-- location for installed apps -->
     <string name="location_app">"應用程式"</string>
