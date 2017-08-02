@@ -593,20 +593,20 @@
     <string name="clear_cache_message">"即將刪除所有應用程式的暫存檔"</string>
 
     <!-- button to browse files -->
-    <string name="browse">"浏览"</string>
+    <string name="browse">"瀏覽"</string>
 
     <!-- button to open file -->
-    <string name="open">"打开"</string>
+    <string name="open">"開啟"</string>
 
-    <string name="loading">"加载中..."</string>
-    <string name="deleting">"刪除中..."</string>
-    <string name="delete_failed">"未能删除文件"</string>
+    <string name="loading">"載入中 ..."</string>
+    <string name="deleting">"刪除中 ..."</string>
+    <string name="delete_failed">"刪除失敗"</string>
     <string name="delete_cancelled">"删除取消"</string>
-    <string name="copy_failed">"未能复制文件"</string>
-    <string name="move_failed">"未能移动文件"</string>
+    <string name="copy_failed">"複製失敗"</string>
+    <string name="move_failed">"移動失敗"</string>
 
     <!-- Message of notification. The app is playing multimedia (video or audio) file. -->
-    <string name="playing_multimedia">"播放多媒体"</string>
+    <string name="playing_multimedia">"播放多媒體"</string>
 
     <!-- Use this string to rename when name is already exists.. abc.zip -. abc - Copy.zip -->
     <string name="copy_postfix">" - 复制"</string>
