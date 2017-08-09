@@ -609,18 +609,20 @@
     <string name="playing_multimedia">"播放多媒體"</string>
 
     <!-- Use this string to rename when name is already exists.. abc.zip -. abc - Copy.zip -->
-    <string name="copy_postfix">" - 复制"</string>
-    <string name="extracted">"%s解压成功"</string>
-    <string name="extract_failed">"%s未能解压"</string>
-    <string name="empty">"清空"</string>
-    <string name="empty_folder">"清空文件夹"</string>
-    <string name="loading_error">"加载错误!"</string>
-    <string name="check_network">"请检查您的网络"</string>
-    <string name="access_denied">"拒绝访问"</string>
-    <string name="icon">"图符"</string>
-    <string name="extract_here">"解压到这里"</string>
-    <string name="extract_to">"解压到..."</string>
-    <string name="extract_to_file_name">"解压到%s"</string>
+    <string name="copy_postfix">" - 複製"</string>
+    <string name="extracted">"%s 解壓縮成功"</string>
+    <string name="extract_failed">"%s 解接縮失敗"</string>
+    <!-- file or folder is empty : adjective -->
+    <string name="empty">"尚無資料"</string>
+     <!-- folder is empty : adjective  -->
+    <string name="empty_folder">"空的資料夾"</string>
+    <string name="loading_error">"載入失敗"</string>
+    <string name="check_network">"請檢查您的網路"</string>
+    <string name="access_denied">"拒絕存取"</string>
+    <string name="icon">"圖示"</string>
+    <string name="extract_here">"解壓縮到此"</string>
+    <string name="extract_to">"解壓縮到 ..."</string>
+    <string name="extract_to_file_name">"解壓縮到 %s"</string>
 
     <!-- ftp server terms : don't translate when you not sure what it is -->
     <string name="active">"主动"</string>
