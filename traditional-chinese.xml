@@ -663,17 +663,17 @@
     <string name="extract_cancelled">已取消解壓縮</string>
 
     <!-- dialog title that shows it is copying files now -->
-    <string name="progress_copying">"正在复制"</string>
+    <string name="progress_copying">正在複製</string>
 
     <!-- dialog title that shows it is moving files now -->
-    <string name="progress_moving">"正在移动"</string>
+    <string name="progress_moving">正在移動</string>
 
     <!-- dialog title that shows it is deleting files now -->
-    <string name="progress_deleting">"正在删除"</string>
+    <string name="progress_deleting">正在刪除</string>
 
-    <string name="progress_compressing">"正在压缩"</string>
-    <string name="progress_extracting">"正在解压"</string>
-    <string name="progress_downloading">"正在下载"</string>
+    <string name="progress_compressing">正在壓縮</string>
+    <string name="progress_extracting">正在解壓縮</string>
+    <string name="progress_downloading">正在下載</string>
 
     <!-- from path. (example)  From :  /storage/download/abc.zip -->
     <string name="from">"来自: %s"</string>
