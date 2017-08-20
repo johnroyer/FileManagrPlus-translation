@@ -625,16 +625,16 @@
     <string name="extract_to_file_name">"解壓縮到 %s"</string>
 
     <!-- ftp server terms : don't translate when you not sure what it is -->
-    <string name="active">"主动"</string>
+    <string name="active">Active</string>
 
     <!-- ftp server terms : don't translate when you not sure what it is -->
-    <string name="passive">"被动"</string>
+    <string name="passive">Passive</string>
 
     <!-- ftp server terms : don't translate when you not sure what it is -->
-    <string name="implicit">"隐式"</string>
+    <string name="implicit">Implicit</string>
 
     <!-- ftp server terms : don't translate when you not sure what it is -->
-    <string name="explicit">"显式"</string>
+    <string name="explicit">Explicit</string>
 
     <string name="uninstalled_one">"%d个应用程序卸载成功"</string>
     <string name="uninstalled">"%d个应用程序卸载成功"</string>
