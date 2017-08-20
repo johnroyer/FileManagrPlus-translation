@@ -684,10 +684,10 @@
     <string name="progress_count">進度: %s</string>
 
     <!-- Shows how many file operations are running. If there are 2 copy operations are running, it shows "Running jobs : 2" -->
-    <string name="running_progress_size">"正在运行的作业: %d"</string>
-    <string name="file_size">"%1$s\n(%2$s 字节)"</string>
-    <string name="folder_name_cannot_be_empty">"文件夹的名称不能为空."</string>
-    <string name="file_name_cannot_be_empty">"文件名不能为空."</string>
+    <string name="running_progress_size">正在進行的動作: %d"</string>
+    <string name="file_size">"%1$s\n(%2$s bytes)"</string>
+    <string name="folder_name_cannot_be_empty">資料夾名稱不可為空白</string>
+    <string name="file_name_cannot_be_empty">檔案名稱不可為空白</string>
 
     <!-- file operations are ongoing -->
     <string name="ongoing">"进行中"</string>
