@@ -648,19 +648,19 @@
 
     <!-- Storage analysis result : used / total (percent%) : (example) 250G / 500G (50%) -->
     <string name="space">%1$s / %2$s (%3$d%%)</string>
-    <string name="compress_failed">"未能压缩"</string>
-    <string name="download_complete">"完成下载"</string>
-    <string name="download_failed">"未能下载"</string>
-    <string name="download_cancelled">"下载已取消"</string>
-    <string name="upload_complete">"完成上传"</string>
-    <string name="upload_failed">"未能上传"</string>
-    <string name="upload_cancelled">"上传已取消"</string>
-    <string name="paste_cancelled">"粘贴已取消"</string>
-    <string name="compress_cancelled">"压缩已取消"</string>
-    <string name="rename_cancelled">"改名已取消"</string>
-    <string name="create_complete">"完成创建"</string>
-    <string name="create_cancelled">"创建已取消"</string>
-    <string name="extract_cancelled">"解压已取消"</string>
+    <string name="compress_failed">壓縮失敗</string>
+    <string name="download_complete">下載完成</string>
+    <string name="download_failed">下載失敗</string>
+    <string name="download_cancelled">已取消下載</string>
+    <string name="upload_complete">上傳完成</string>
+    <string name="upload_failed">上傳失敗</string>
+    <string name="upload_cancelled">已取消上傳</string>
+    <string name="paste_cancelled">已取消貼上</string>
+    <string name="compress_cancelled">已取消壓縮</string>
+    <string name="rename_cancelled">已取消重新命名</string>
+    <string name="create_complete">新增完成</string>
+    <string name="create_cancelled">已取消新增</string>
+    <string name="extract_cancelled">已取消解壓縮</string>
 
     <!-- dialog title that shows it is copying files now -->
     <string name="progress_copying">"正在复制"</string>
