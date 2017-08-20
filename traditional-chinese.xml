@@ -690,15 +690,15 @@
     <string name="file_name_cannot_be_empty">檔案名稱不可為空白</string>
 
     <!-- file operations are ongoing -->
-    <string name="ongoing">"进行中"</string>
-    <string name="hint_document_tree_sdcard">"根据下面说明，先允许应用程序访问SD卡."</string>
-    <string name="hint_document_tree_usb">"根据下面说明，先允许应用程序访问USB存储."</string>
+    <string name="ongoing">進行中</string>
+    <string name="hint_document_tree_sdcard">清參考以下說明，授權 app 存取 SD 卡儲存空間</string>
+    <string name="hint_document_tree_usb">請參考以下說明，授權 app 存取 USB 儲存空間</string>
 
     <!-- Instruction to allow app to access sdcard -->
-    <string name="hint_document_tree_steps_1">"1. 点击左上角的菜单按钮(☰)."</string>
-    <string name="hint_document_tree_steps_2_sdcard">"2. 点击侧面菜单中的SD卡."</string>
-    <string name="hint_document_tree_steps_2_usb">"2. 点击侧面菜单中的USB存储."</string>
-    <string name="hint_document_tree_steps_3">"3. 点击底部的选择按钮"</string>
+    <string name="hint_document_tree_steps_1">1. 點選左上方的選單 (☰)</string>
+    <string name="hint_document_tree_steps_2_sdcard">2. 點擊選單中的 SD 卡選項</string>
+    <string name="hint_document_tree_steps_2_usb">2. 點擊選單中的 USB 儲存空間</string>
+    <string name="hint_document_tree_steps_3">3. 點擊下方的「選擇」按鈕</string>
 
     <!-- The selected folder is not the root folder(top folder) of the sd card  -->
     <string name="document_tree_failed_not_root_sdcard">"选定的文件夹不是SD卡的最上一级目录. 请重试一下."</string>
