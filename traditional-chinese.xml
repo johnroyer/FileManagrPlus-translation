@@ -676,12 +676,12 @@
     <string name="progress_downloading">正在下載</string>
 
     <!-- from path. (example)  From :  /storage/download/abc.zip -->
-    <string name="from">"来自: %s"</string>
+    <string name="from">從: %s</string>
     <!-- to path. (example)  To :  /storage/download/abc2.zip -->
-    <string name="to">"目的: %s"</string>
+    <string name="to">至: %s</string>
 
     <!-- file operation progress status. (example) Progress: 5/200 -->
-    <string name="progress_count">"进度: %s"</string>
+    <string name="progress_count">進度: %s</string>
 
     <!-- Shows how many file operations are running. If there are 2 copy operations are running, it shows "Running jobs : 2" -->
     <string name="running_progress_size">"正在运行的作业: %d"</string>
