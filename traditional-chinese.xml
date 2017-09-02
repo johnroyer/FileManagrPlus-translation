@@ -641,7 +641,7 @@
     <string name="backed_up_one">已備份 app 到 %s</string>
     <string name="backed_up">已備份 app 到 %s</string>
     <string name="port_in_use">%d 阜正在使用，請選擇其他連接阜"</string>
-    <string name="enter_port_number">"请输入端口号."</string>
+    <string name="enter_port_number">"請輸入連接阜."</string>
     <string name="invalid_username_password">帳號或密碼錯誤</string>
     <string name="connection_failed_with_user">無法使用 %2$s 連線到伺服器 %1$s</string>
     <string name="connection_failed">無法連線到 %s</string>
@@ -691,7 +691,7 @@
 
     <!-- file operations are ongoing -->
     <string name="ongoing">進行中</string>
-    <string name="hint_document_tree_sdcard">清參考以下說明，授權 app 存取 SD 卡儲存空間</string>
+    <string name="hint_document_tree_sdcard">請參考以下說明，授權 app 存取 SD 卡儲存空間</string>
     <string name="hint_document_tree_usb">請參考以下說明，授權 app 存取 USB 儲存空間</string>
 
     <!-- Instruction to allow app to access sdcard -->
@@ -701,297 +701,297 @@
     <string name="hint_document_tree_steps_3">3. 點擊下方的「選擇」按鈕</string>
 
     <!-- The selected folder is not the root folder(top folder) of the sd card  -->
-    <string name="document_tree_failed_not_root_sdcard">"选定的文件夹不是SD卡的最上一级目录. 请重试一下."</string>
-    <string name="document_tree_failed_not_sdcard">"选定的存储不是SD卡. 请重试一下."</string>
+    <string name="document_tree_failed_not_root_sdcard">"選擇的目錄不是 SD 卡的最上層目錄. 請重新嘗試."</string>
+    <string name="document_tree_failed_not_sdcard">"選擇的儲存位置不是 SD 卡. 請重新嘗試."</string>
     <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
-    <string name="document_tree_for_operation_sdcard">"为了操作您需要允许访问SD卡."</string>
+    <string name="document_tree_for_operation_sdcard">"為了操作您需要允許存取 SD 卡."</string>
 
-    <string name="document_tree_failed_not_root_usb">"选定的文件夹不是USB存储的最上一级目录. 请重试一下."</string>
-    <string name="document_tree_failed_not_usb">"选定的存储不是USB存储. 请重试一下."</string>
+    <string name="document_tree_failed_not_root_usb">"選擇的目錄不是 USB 設備的最上層目錄. 請重新嘗試."</string>
+    <string name="document_tree_failed_not_usb">"選擇的儲存位置不是 USB 設備. 請重新嘗試."</string>
     <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
-    <string name="document_tree_for_operation_usb">"为了操作您需要允许访问USB."</string>
+    <string name="document_tree_for_operation_usb">"為了操作您需要允许存取 USB."</string>
 
-    <string name="include_system_apps">"所选应用程序里包括系统应用程序."</string>
-    <string name="file_count">"文件夹: %1$d, 文件: %2$d"</string>
-    <string name="delete_file_count">"文件夹: %1$d, 文件: %2$d, 大小: %3$s"</string>
+    <string name="include_system_apps">"所選擇的應用程式裡包含系統應用程式."</string>
+    <string name="file_count">"目錄: %1$d, 文件: %2$d"</string>
+    <string name="delete_file_count">"目錄: %1$d, 文件: %2$d, 大小: %3$s"</string>
     <string name="delete_file_size">"大小: %s"</string>
-    <string name="prepare_paste_information">"准备粘贴信息中..."</string>
-    <string name="preparing">"准备中..."</string>
+    <string name="prepare_paste_information">"準備貼上訊息中..."</string>
+    <string name="preparing">"準備中..."</string>
 
     <string name="search_hint">"搜索"</string>
     <string name="search_settings_description">"搜索文件"</string>
     <string name="search_location">"搜索: %1$s"</string>
     
-    <string name="no_application">"未找到应用程序"</string>
-    <string name="requested_file_not_found">"找不到请求的文件."</string>
+    <string name="no_application">"未找到應用程式"</string>
+    <string name="requested_file_not_found">"找不到請求的文件."</string>
     
-    <string name="noti_server_is_on">"FTP服务器正在运行"</string>
+    <string name="noti_server_is_on">"FTP伺服器正在運行"</string>
     
-    <string name="drawer_open">"打开侧边栏"</string>
-    <string name="drawer_close">"关闭侧边栏"</string>
+    <string name="drawer_open">"打開側邊欄"</string>
+    <string name="drawer_close">"關閉側邊欄"</string>
     
-    <string name="settings_view">"视图"</string>
+    <string name="settings_view">"外觀"</string>
     <string name="settings_sort">"排序"</string>
     <string name="settings_sortby">"排序方式"</string>
     <string name="settings_etc">"其他"</string>
-    <string name="settings_hidden">"显示隐藏文件"</string>
+    <string name="settings_hidden">"顯示/隱藏文件"</string>
     
-    <string name="rate_title">"评论此应用程序"</string>
-    <string name="rate_message">"如果你喜欢这应用程序，请给我们5星级."</string>
+    <string name="rate_title">"評價此應用程式"</string>
+    <string name="rate_message">"如果你喜歡這個應用程式，請給我們 5 顆星."</string>
     <!-- rate options -->
-   	<string name="rate_yes">"评估5★"</string>
+   	<string name="rate_yes">"評價 5★"</string>
     <!-- rate options -->
-    <string name="rate_not_now">"暂时不"</string>
+    <string name="rate_not_now">"暫時不要"</string>
     <!-- rate options -->
-    <string name="rate_never">"决不"</string>
+    <string name="rate_never">"不再提示"</string>
     
-    <string name="back_again_to_exit">"再次按返回按钮退出"</string>
-    <string name="download_app_to_open_files">"下载%1$s打开%2$s文件"</string>
-    <string name="download_action">"下载"</string>
+    <string name="back_again_to_exit">"再次按返回按鈕退出"</string>
+    <string name="download_app_to_open_files">"下載%1$s打開%2$s文件"</string>
+    <string name="download_action">"下載"</string>
 
     <!-- ex: Main Storage is full (98%) or Sd card is full (95%) -->
-    <string name="storage_is_full">"%1$s空间已满 (%2$s)"</string>
+    <string name="storage_is_full">"%1$s空間已滿 (%2$s)"</string>
     <string name="storage_clean_up">"清除"</string>
-    <string name="not_enougth_space">"您的%s空间不足"</string>
-    <string name="storage_delete_unnecessary_files">"删除%s上不必要的文件"</string>
+    <string name="not_enougth_space">"您的%s空間不足"</string>
+    <string name="storage_delete_unnecessary_files">"刪除%s上不必要的文件"</string>
 
-    <string name="file_is_downloaded">"'%s'已下载"</string> <!-- abc.jpg is downloaded -->
-    <string name="open_download_folder">"打开下载文件夹"</string>
+    <string name="file_is_downloaded">"'%s'已下載"</string> <!-- abc.jpg is downloaded -->
+    <string name="open_download_folder">"打開下載資料夾"</string>
 
-    <string name="photos_today">"今天拍摄的%d张照片"</string> <!-- 10 photos taken today -->
-    <string name="see_photos_today">"看照片"</string>
+    <string name="photos_today">"今天拍攝的%d張照片"</string> <!-- 10 photos taken today -->
+    <string name="see_photos_today">"今日照片"</string>
 
     <string name="notifications">"提示音"</string>
     <string name="noti_new_photos">"新照片"</string>
-    <string name="noti_storage_full">"存储已满"</string>
-    <string name="noti_download">"下载"</string>
+    <string name="noti_storage_full">"儲存空間已滿"</string>
+    <string name="noti_download">"下載"</string>
 
     <plurals name="compressed_items_plurals">
-        <item quantity="one">"总共%1$d项压缩为%2$s"</item>
-        <item quantity="other">"总共%1$d项压缩为%2$s"</item>
+        <item quantity="one">"總共%1$d項壓縮為%2$s"</item>
+        <item quantity="other">"總共%1$d項壓縮為%2$s"</item>
     </plurals>
     <plurals name="extracted_items_plurals">
-        <item quantity="one">"总共%1$d项解压到%2$s"</item>
-        <item quantity="other">"总共%1$d项解压到%2$s"</item>
+        <item quantity="one">"總共%1$d項解壓縮到%2$s"</item>
+        <item quantity="other">"總共%1$d項解壓縮到%2$s"</item>
     </plurals>
 
     <!-- Result message for moving single item to other folder -->
-    <string name="moved_single_item">"'%1$s'移动到%2$s"</string>
+    <string name="moved_single_item">"'%1$s'移動到%2$s"</string>
     <plurals name="moved_items_plurals">
-        <item quantity="one">"总共%1$d项移动到%2$s"</item>
-        <item quantity="other">"总共%1$d项移动到%2$s"</item>
+        <item quantity="one">"總共%1$d項移動到%2$s"</item>
+        <item quantity="other">"總共%1$d項移動到%2$s"</item>
     </plurals>
 
     <!-- Result message for copying single item to other folder -->
-    <string name="copied_single_item">"'%1$s'复制到%2$s"</string>
+    <string name="copied_single_item">"'%1$s'複製到%2$s"</string>
     <plurals name="copied_items_plurals">
-        <item quantity="one">"总共%1$d项复制到%2$s"</item>
-        <item quantity="other">"总共%1$d项复制到%2$s"</item>
+        <item quantity="one">"總共%1$d項複製到%2$s"</item>
+        <item quantity="other">"總共%1$d項複製到%2$s"</item>
     </plurals>
 
     <!-- Result message for deleting single item -->
     <string name="deleted_single_item">"'%s'已删除"</string>
     <plurals name="deleted_items_plurals">
-        <item quantity="one">"总共%1$d项已删除"</item>
-        <item quantity="other">"总共%1$d项已删除"</item>
+        <item quantity="one">"總共%1$d項已删除"</item>
+        <item quantity="other">"總共%1$d項已删除"</item>
     </plurals>
-    <string name="confirm_delete_item">"你确定要删除'%s'?"</string>
+    <string name="confirm_delete_item">"確定要刪除'%s'?"</string>
     <plurals name="confirm_delete_items_plurals">
-        <item quantity="one">"你确定要删除%d项?"</item> <!-- 11 is in this case in russian -->
-        <item quantity="other">"你确定要删除%d项?"</item>
+        <item quantity="one">"確定要刪除%d項?"</item> <!-- 11 is in this case in russian -->
+        <item quantity="other">"確定要刪除%d項?"</item>
     </plurals>
     <plurals name="num_items_plurals">
-        <item quantity="one">"1 项"</item>
-        <item quantity="other">"%d 项"</item>
+        <item quantity="one">"1 項"</item>
+        <item quantity="other">"%d 項"</item>
 	</plurals>
 
     <!-- label for unknown number of items. "1 item", "2 items" for know number. "- items" for unknown numbers -->
-    <string name="num_items_unknown">"- 项"</string>
+    <string name="num_items_unknown">"- 項"</string>
 
     <!-- sort options -->
-    <string name="sort_no_sort">"没有排序"</string>
+    <string name="sort_no_sort">"沒有排序"</string>
     <!-- sort options -->
-    <string name="sort_name_ascend">"名称 ↑"</string>
+    <string name="sort_name_ascend">"名稱 ↑"</string>
     <!-- sort options -->
-    <string name="sort_name_descend">"名称 ↓"</string>
+    <string name="sort_name_descend">"名稱 ↓"</string>
     <!-- sort options -->
     <string name="sort_size_ascend">"大小 ↑"</string>
     <!-- sort options -->
     <string name="sort_size_descend">"大小 ↓"</string>
     <!-- sort options -->
-    <string name="sort_date_ascend">"时间 ↑"</string>
+    <string name="sort_date_ascend">"時間 ↑"</string>
     <!-- sort options -->
-    <string name="sort_date_descend">"时间 ↓
+    <string name="sort_date_descend">"時間 ↓
 "</string>
     <!-- sort options : File type -->
-    <string name="sort_type_ascend">"类型 ↑"</string>
+    <string name="sort_type_ascend">"類型 ↑"</string>
     <!-- sort options : File type -->
-    <string name="sort_type_descend">"类型 ↓"</string>
+    <string name="sort_type_descend">"類型 ↓"</string>
 
     <!-- error message -->
-    <string name="error">"错误"</string>
+    <string name="error">"錯誤"</string>
 
     <!-- error message when file not found -->
     <string name="error_file_not_found">"找不到文件"</string>
 
     <!-- error message when not enough storage -->
-    <string name="error_not_enough_storage">"存储空间不足"</string>
+    <string name="error_not_enough_storage">"儲存空間不足"</string>
 
     <!-- error message when app could not save the file -->
-    <string name="error_file_save">"无法保存文件"</string>
+    <string name="error_file_save">"無法保存文件"</string>
 
     <!-- error messaga when app could not load the file -->
-    <string name="error_file_load">"无法加载文件"</string>
+    <string name="error_file_load">"烏髮載入文件"</string>
 
     <!-- error message when app could not update the archive file(compressed file). -->
-    <string name="failed_to_update_archive">"无法更新归档文件"</string>
+    <string name="failed_to_update_archive">"無法更新打包文件"</string>
 
     <!-- error message for the android 4.4 users. Writie to the sdcard in 3rd party apps is not possible in the android 4.4 -->
-    <string name="error_kitkat_sdcard">"保存SD卡是由安卓4.4系统所限制的"</string>
+    <string name="error_kitkat_sdcard">"保存 SD 卡是由 Android 4.4 系统所限制的"</string>
 
     <!-- error message -->
-    <string name="error_too_large_to_open">"文件容量太大，无法打开."</string>
+    <string name="error_too_large_to_open">"檔案容量太大，無法打開."</string>
 
     <!-- error message for network error -->
-    <string name="error_network">"发生网络错误."</string>
+    <string name="error_network">"發生網路錯誤."</string>
 
     <!-- error message -->
-    <string name="error_usb_removed">"USB存储已删除."</string>
+    <string name="error_usb_removed">"USB 設備已刪除."</string>
 
     <!-- error message -->
-    <string name="no_apps_to_open_file">"没有安装可打开此类型的文件的应用程序"</string>
+    <string name="no_apps_to_open_file">"没有安裝可打開此類型文件的應用程式"</string>
 
     <!-- error message -->
-    <string name="error_not_text_file">"不是文本文件"</string>
+    <string name="error_not_text_file">"不是純文字檔"</string>
 
     <!-- Error message in search. App could not show search result because error was raised in search. -->
-    <string name="error_file_search">"无法搜索文件"</string>
+    <string name="error_file_search">"無法搜索檔案"</string>
 
     <!-- tried to open archive file (ex. zip, rar, ...) but it could not be opened because it's damaged or in unknown format -->
-    <string name="archive_is_damaged">"压缩的文件格式未知或损坏"</string>
+    <string name="archive_is_damaged">"壓縮的檔案格式未知或損壞"</string>
 
     <!-- error message for file or directory is corrupted -->
-    <string name="file_corrupted">"该文件或目录已损坏和不可读取"</string>
+    <string name="file_corrupted">"該檔案或目錄已損壞"</string>
     <!-- ex) NTFS file system is not supported -->
-    <string name="not_supported_filesystem">"%s文件系统是不支持的."</string>
+    <string name="not_supported_filesystem">"不支援的檔案系統%s."</string>
     <!-- external storage device (ex: USB Mass storage) is not recognized, so can't open -->
-    <string name="storage_device_not_recognized">"存储设备无法认识"</string>
+    <string name="storage_device_not_recognized">"無法識別的儲存設備"</string>
 
     <!-- warning over mobile network -->
-    <string name="warning_mobile_network">"总大小为%s. 您确定要继续通过移动网络进行操作吗？"</string>
+    <string name="warning_mobile_network">"總大小為%s. 您確定要繼續通過行動網路進行操作吗？"</string>
 
-    <string name="google_account_not_found">"Google帐户\"%s\"在设备中找不到"</string>
-    <string name="could_not_access_account">"无法连接帐户信息"</string>
+    <string name="google_account_not_found">"Google '帳戶\"%s\"在設備中找不到"</string>
+    <string name="could_not_access_account">"無法連接帳戶"</string>
 
 
     <!-- settings app: sdcard_settings_not_present_status default -->
-    <string name="no_sdcard">"没有SD卡"</string>
+    <string name="no_sdcard">"没有 SD 卡"</string>
     <!-- settings app: sdcard_settings_mass_storage_status default -->
-    <string name="sdcard_used_as_mass_storage">"SD卡用作大容量存储设备."</string>
+    <string name="sdcard_used_as_mass_storage">"SD 卡用作大容量儲存設備."</string>
     <!-- settings app: sdcard_settings_not_present_status nosdcard -->
-    <string name="usb_storage_no_mount">"主存储未安装."</string>
+    <string name="usb_storage_no_mount">"主要儲存設備未安装."</string>
     <!-- settings app: sdcard_settings_mass_storage_status nosdcard -->
-    <string name="usb_storage_used_as_mass_storage">"主存用作大容量存储设备."</string>
+    <string name="usb_storage_used_as_mass_storage">"主要儲存設備用作大容量儲存設備."</string>
 
     <!-- Not Used Anymore -->
     <string name="clipboard">"%1$s %2$s和%3$d等文件"</string>
     <string name="clipboard_one">"%1$s 文件 %2$s"</string>
-    <string name="desktop_add">"添加新位置"</string>
-    <string name="dialog_hint_domain">"可选域名"</string>
+    <string name="desktop_add">"增加新位置"</string>
+    <string name="dialog_hint_domain">"可選網域名"</string>
 
     <!-- msg for opeeration cancelled -->
     <string name="cancelled">"已取消"</string>
 
     <!-- title for confirm dialog -->
-    <string name="confirm">"确认"</string>
+    <string name="confirm">"確認"</string>
 
     <!-- message of confirm dialog to use mobile network -->
-    <string name="confirm_large_file_over_mobile">"文件容量太大。你愿意继续通过移动网络操作吗？"</string>
+    <string name="confirm_large_file_over_mobile">"檔案容量太大。你確定繼續通過行動網路操作嗎？"</string>
 
     <!-- message of confirm dialog to save changes -->
-    <string name="confirm_save">"要保存改变吗？"</string>
+    <string name="confirm_save">"儲存變更？"</string>
 
     <!-- menu for save -->
-    <string name="save">"保存"</string>
+    <string name="save">"儲存"</string>
 
     <!-- menu for do not save -->
-    <string name="dontsave">"不保存"</string>
+    <string name="dontsave">"不儲存"</string>
 
     <!-- text encoding for text files -->
-    <string name="text_encoding">"编码"</string>
+    <string name="text_encoding">"編碼"</string>
 
-    <string name="automatic">"自动"</string>
+    <string name="automatic">"自動"</string>
 
     <!-- (example) Open as image, Open as video -->
-    <string name="open_as">"作为"</string>
+    <string name="open_as">"開啟為"</string>
 
     <!-- Menu for open file with other than default application. It's same with 'Open with' menu in windows explorer context menu -->
-    <string name="open_with">"打开为"</string>
+    <string name="open_with">"以...開啟"</string>
 
     <!-- Text file -->
-    <string name="text">"文本"</string>
+    <string name="text">"純文字檔"</string>
 
     <!-- Image file -->
-    <string name="image">"图片"</string>
+    <string name="image">"圖片"</string>
 
     <!-- Audio file -->
-    <string name="audio">"音频"</string>
+    <string name="audio">"音訊"</string>
 
     <!-- Video file -->
-    <string name="video">"视频"</string>
+    <string name="video">"影片"</string>
 
     <!-- Other files -->
     <string name="other">"其他"</string>
 
     <!-- Server hostname -->
-    <string name="enter_host">"请输入主机名."</string>
+    <string name="enter_host">"請輸入主機名稱."</string>
 
     <!-- error message for renaming file -->
-    <string name="contains_special_characters">"文件名不能包含以下任何字符: \\ / : * ? \" &lt; &gt; |"</string>
+    <string name="contains_special_characters">"檔案名稱不能包含以下任何字元: \\ / : * ? \" &lt; &gt; |"</string>
 
     <!-- storage permission request -->
-    <string name="request_storage_permissions">"为了访问本地储存，请允许读取设备上的文件权限."</string>
+    <string name="request_storage_permissions">"請允許存取儲存設備上的檔案."</string>
 
     <!-- request account_permissions -->
-    <string name="request_account_permissions">"为了访问Google Drive, 请允许读取您的通讯录权限"</string>
+    <string name="request_account_permissions">"請允許讀取您的通訊錄權限"</string>
 
     <!-- permission settings menu -->
-    <string name="permission_settings">"权限设置"</string>
+    <string name="permission_settings">"權限設定"</string>
 
     <!-- General Settings -->
-    <string name="general_settings">"常规设置"</string>
+    <string name="general_settings">"一般設定"</string>
 
     <!-- Advanced settings -->
-    <string name="advanced_settings">"高级设置"</string>
+    <string name="advanced_settings">"進階設定"</string>
 
     <!-- settings for notifications -->
-    <string name="notifications_settings">"通知栏设置"</string>
+    <string name="notifications_settings">"通知設定"</string>
 
     <!-- Settings for showing "System" in the storage list, System storage is the space where OS and system applications are installed -->
-    <string name="setting_show_system">"显示系统存储"</string>
-    <string name="show_advanced_menus">"显示高级菜单"</string>
+    <string name="setting_show_system">"顯示系統目錄"</string>
+    <string name="show_advanced_menus">"顯示進階選單"</string>
 
     <!-- Preference which shows about screen with legal info, etc. [CHAR LIMIT=50] -->
-    <string name="about_preference">"关于"</string>
+    <string name="about_preference">"關於"</string>
 
     <!-- Preference which shows version. [CHAR LIMIT=50] -->
     <string name="about_version">"版本"</string>
 
-    <string name="music_player">"音乐播放器"</string>
-    <string name="image_viewer">"图像浏览器"</string>
-    <string name="text_editor">"文本编辑器"</string>
+    <string name="music_player">"音樂撥放器"</string>
+    <string name="image_viewer">"圖片瀏覽器"</string>
+    <string name="text_editor">"文字編輯器"</string>
 
     <!-- Use settings for image viewer in the app -->
-    <string name="use_internal_image_viewer">"使用内部图像浏览器"</string>
+    <string name="use_internal_image_viewer">"使用内建圖片瀏覽器"</string>
 
     <!-- Use settings for text editor in the app -->
-    <string name="use_internal_text_editor">"使用内部文本编辑器"</string>
+    <string name="use_internal_text_editor">"使用內建文字編輯器"</string>
 
     <!-- Use settings for music player in the app -->
-    <string name="use_internal_music_player">"使用内部音乐播放器"</string>
+    <string name="use_internal_music_player">"使用内建音樂撥放器"</string>
 
     <!-- error message for music player -->
-    <string name="error_no_metadata">"无法检索元数据."</string>
+    <string name="error_no_metadata">"無法檢索標頭資料."</string>
 
     <!-- desciption of song name in music player -->
     <string name="currently_playing_song">"正在播放的歌曲"</string>
@@ -1000,209 +1000,209 @@
     <string name="currently_playing_artist">"正在播放歌曲的歌手"</string>
 
     <!-- description of music player -->
-    <string name="currently_playing_extra_info">"正在播放歌曲的额外信息"</string>
+    <string name="currently_playing_extra_info">"正在播放歌曲的額外訊息"</string>
 
     <!-- play or pause button in music player -->
-    <string name="play_pause">"播放或暂停"</string>
+    <string name="play_pause">"播放或暫停"</string>
 
     <!-- next song button in music player -->
-    <string name="skip_next">"跳到下一个"</string>
+    <string name="skip_next">"跳到下一個"</string>
 
     <!-- previous song button in music player -->
-    <string name="skip_prev">"跳到上一个"</string>
+    <string name="skip_prev">"跳到上一個"</string>
 
     <!-- description of albumart in music player -->
-    <string name="background_image_str">"专辑封面的背景图像"</string>
+    <string name="background_image_str">"專輯封面的背景圖片"</string>
 
     <!-- title forrecycle bin for files -->
-    <string name="recycle_bin">"回收站"</string>
+    <string name="recycle_bin">"回收筒"</string>
 
     <!-- message of toast message. recycle bin is empty -->
-    <string name="recycle_bin_is_empty">"回收站为空"</string>
+    <string name="recycle_bin_is_empty">"回收筒已空"</string>
 
     <!-- menu for moving files to recycle bin -->
-    <string name="menu_move_to_recycle_bin">"移动到回收站"</string>
+    <string name="menu_move_to_recycle_bin">"丟至到回收筒"</string>
 
     <!-- settings for files -->
-    <string name="recycle_bin_settings">"回收站设置"</string>
+    <string name="recycle_bin_settings">"回收筒設定"</string>
 
     <!-- Use settings for recycle bin -->
-    <string name="use_recycle_bin">"默认使用回收站"</string>
+    <string name="use_recycle_bin">"預設使用回收筒"</string>
 
     <!-- settings for showing 'delete to recycle bin' confirmation dialog -->
-    <string name="recycle_bin_confirmation">"表示回收站删除确认"</string>
+    <string name="recycle_bin_confirmation">"確認要移到回收筒?"</string>
 
     <!-- Confirmation message for moving single file to recycle bin by filename -->
-    <string name="confirm_recyclebin_single_item">"你确定'%s'移到回收站吗?"</string>
+    <string name="confirm_recyclebin_single_item">"你確定'%s'移到回收筒嗎?"</string>
 
     <!-- Confirmation message for moving to recycle bin by item count -->
     <plurals name="confirm_recyclebin_items_plurals">
-        <item quantity="one">"您确定%d项移动到回收站吗?"</item>
-        <item quantity="other">"您确定%d项移动到回收站吗?"</item>
+        <item quantity="one">"您確定%d項移動到回收筒嗎?"</item>
+        <item quantity="other">"您確定%d項移動到回收筒嗎?"</item>
     </plurals>
 
     <!-- Message for result of moving single file to recycle bin -->
-    <string name="recycled_single_item">"'%s'移动到回收站."</string>
+    <string name="recycled_single_item">"'%s'移動到回收筒."</string>
 
     <!-- Message for result of moving files to recycle bin -->
     <plurals name="recycled_items_plurals">
-        <item quantity="one">"总共%d项移动到回收站"</item>
-        <item quantity="other">"总共%d项移动到回收站"</item>
+        <item quantity="one">"總共%d項移動到回收筒"</item>
+        <item quantity="other">"總共%d項移動到回收筒"</item>
     </plurals>
 
     <!-- Message for result of restoring single file from the recycle bin -->
-    <string name="restored_single_item">"从回收站还原'%s'"</string>
+    <string name="restored_single_item">"從回收筒還原'%s'"</string>
 
     <!-- Message for result of restoring files from the recycle bin -->
     <plurals name="restored_items_plurals">
-        <item quantity="one">"从回收站还原了%d项"</item>
-        <item quantity="other">"从回收站还原了%d项"</item>
+        <item quantity="one">"從回收筒還原了%d項"</item>
+        <item quantity="other">"從回收筒還原了%d項"</item>
     </plurals>
 
-    <string name="restore_failed">"无法还原文件"</string>
+    <string name="restore_failed">"無法還原檔案"</string>
 
     <!-- menu for empty recycle bin short string -->
     <string name="menu_empty">"清空"</string>
 
     <!-- menu for empty recycle bin long string -->
-    <string name="empty_recycle_bin">"清空回收站"</string>
-    <string name="empty_recycle_bin_message">"确定要清空回收站吗?"</string>
+    <string name="empty_recycle_bin">"清空回收筒"</string>
+    <string name="empty_recycle_bin_message">"確定要清空回收筒嗎?"</string>
 
     <!-- delete permanently instead of moving to recycle bin -->
-    <string name="menu_permanently_delete">"永久删除"</string>
+    <string name="menu_permanently_delete">"永久刪除"</string>
 
     <!-- Menu for restoring file from the recycle bin -->
-    <string name="menu_restore">"还原"</string>
+    <string name="menu_restore">"還原"</string>
 
     <!-- Menu for undoing operation (ex: undo delete) -->
     <string name="menu_undo">"取消"</string>
 
 
     <!-- Recycle progress dialog title. It is sending files to the recycle bin now -->
-    <string name="progress_moving_to_recycle_bin">"回收中"</string>
+    <string name="progress_moving_to_recycle_bin">"移動中"</string>
 
     <!-- Restore progress dialog title. It is restoring files from the recycle bin now -->
-    <string name="progress_restoring_from_recycle_bin">"还原中"</string>
+    <string name="progress_restoring_from_recycle_bin">"還原中"</string>
 
     <!-- Message for the recycle bin is full. -->
-    <string name="recycle_bin_full">"回收站已满 (%s)"</string>
+    <string name="recycle_bin_full">"回收筒已滿 (%s)"</string>
 
     <!-- Message for how much size of files deleted to the recycle bin -->
-    <string name="recycle_bin_deleted_size">"%s文件移动到回收站"</string>
+    <string name="recycle_bin_deleted_size">"%s文件移動到回收筒"</string>
 
     <!-- Switch On/Off  -->
-    <string name="switch_on_text">"启动"</string>
-    <string name="switch_off_text">"关闭"</string>
+    <string name="switch_on_text">"啟動"</string>
+    <string name="switch_off_text">"關閉"</string>
 
     <!-- Scanning storage for media files -->
-    <string name="scanning_for_files">"文件扫描中..."</string>
+    <string name="scanning_for_files">"檔案掃描中..."</string>
 
     <!-- description of storage analysis -->
     <!--<string name="storage_analysis_description">Storage analysis : You can analyze local storages to clean up useless files. You can find out which files take up the most space.</string>-->
 
     <!-- retry button -->
-    <string name="retry">"重试"</string>
+    <string name="retry">"重試"</string>
 
     <!-- menu for batch (multi) rename -->
-    <string name="menu_batch_rename">"批量重命名"</string>
+    <string name="menu_batch_rename">"批次重新命名"</string>
 
     <!-- Settings for hide/unhide menu -->
-    <string name="settings_hide_unhide">"隐藏/取消隐藏"</string>
+    <string name="settings_hide_unhide">"隱藏/顯示"</string>
 
     <!-- menu to hide the item -->
-    <string name="menu_hide">"隐藏"</string>
+    <string name="menu_hide">"隱藏"</string>
 
     <!-- menu to show(unhide) the hidden item -->
-    <string name="menu_unhide">"取消隐藏"</string>
+    <string name="menu_unhide">"顯示"</string>
 
     <!-- Setting for selection UI -->
-    <string name="setting_tap_icon_to_select">"点击图标选择"</string>
+    <string name="setting_tap_icon_to_select">"點擊圖示選擇"</string>
 
     <!-- Description of setting for selection UI -->
-    <string name="setting_tap_icon_to_select_desc">"点击项目的图标或长按选择几个项目"</string>
+    <string name="setting_tap_icon_to_select_desc">"點擊項目的圖示或長案選擇幾個項目"</string>
 
     <!-- Setting for always show navigation icon -->
-    <string name="setting_always_show_nav_icon">"总是显示搜索图标 (☰)"</string>
+    <string name="setting_always_show_nav_icon">"總是顯示搜尋圖示 (☰)"</string>
 
     <!-- noticiation settings. ex) Show when the storage is over 95% full -->
-    <string name="storage_full_threshold_explanation">"使用空间超过%s时显示"</string>
+    <string name="storage_full_threshold_explanation">"使用空間超過%s時顯示"</string>
 
     <!-- Title of dialog for backup data -->
-    <string name="title_backup">"备份"</string>
+    <string name="title_backup">"備份"</string>
 
     <!-- Message for backup failure -->
-    <string name="backup_failed">"未能备份"</string>
+    <string name="backup_failed">"無法備份"</string>
 
     <!-- Confirm dialog message. Local copy of remote or cloud file is changed. Do you want to upload it to the server or cloud? -->
-    <string name="confirm_upload_changed_file">"'%s'被更改. 你要上传吗?"</string>
+    <string name="confirm_upload_changed_file">"'%s'被更改. 你要上傳嗎?"</string>
 
     <!-- Confirm dialog message. Archive file (.zip file) is changed. Do you want to update it? -->
     <string name="confirm_uppdate_changed_archive">"'%s'被更改. 你要更新吗?"</string>
 
     <!-- error message -->
-    <string name="error_illegal_filename">"文件名包含非法字符"</string>
+    <string name="error_illegal_filename">"檔案名稱包含非法字元"</string>
 
     <!-- error message -->
-    <string name="error_file_too_large">"文件太大"</string>
+    <string name="error_file_too_large">"檔案太大"</string>
 
     <!-- error message -->
-    <string name="error_unsupported_encryption">"不支持的加密方式"</string>
+    <string name="error_unsupported_encryption">"不支援的加密方式"</string>
 
     <!-- error message -->
-    <string name="error_read_only_delete">"不能删除只能读文件"</string>
+    <string name="error_read_only_delete">"唯讀檔案"</string>
 
     <!-- theme -->
-    <string name="title_theme">"主题"</string>
+    <string name="title_theme">"主題"</string>
 
     <!-- title for premium version -->
-    <string name="title_premium">"高级账户"</string>
+    <string name="title_premium">"高級用戶"</string>
 
     <!-- menu to Uprade to premium version -->
-    <string name="upgrade_to_premium">"升级到高级账户"</string>
+    <string name="upgrade_to_premium">"升級到高級用戶"</string>
 
     <string name="billed_yearly">"每年付款"</string>
 
     <!-- payment description -->
-    <string name="payment_description">"您将每年自动付款%s订阅1年, 直至您取消订阅为止. 除非法律要求, 已付的费用不提供退款."</string>
+    <string name="payment_description">"您將每年自動付款%s訂閱 1 年, 直至您取消訂閱为止. 除非法律要求, 已付的費用不提供退款."</string>
 
     <!-- payment action menu -->
-    <string name="payment_action">"立即购买"</string>
+    <string name="payment_action">"立即購買"</string>
 
     <!-- payment action menu : Promotion Code -->
-    <string name="payment_promo_code">"优惠号码"</string>
+    <string name="payment_promo_code">"優惠序號"</string>
 
     <!-- Error message : Invalid Promotion code -->
-    <string name="invalid_promo_code">"无效的优惠号码"</string>
+    <string name="invalid_promo_code">"無效的優惠序號"</string>
 
     <!-- Menu for managing subscription -->
-    <string name="manage_subscription">"管理订阅"</string>
+    <string name="manage_subscription">"管理訂閱"</string>
 
     <!-- menu to remove advertisement -->
-    <string name="remove_ads">"删除广告"</string>
-    <string name="remove_ads_desc">"应用程序里删除广告"</string>
+    <string name="remove_ads">"刪除廣告"</string>
+    <string name="remove_ads_desc">"應用程式裡刪除廣告"</string>
 
     <!-- Premium expired on ex) Expires on Mar 25, 2017 -->
-    <string name="premium_expires_on">"过期于%s"</string>
+    <string name="premium_expires_on">"於%s過期"</string>
 
     <!-- title for premium features list -->
-    <string name="title_premium_features">"高级功能"</string>
+    <string name="title_premium_features">"高級功能"</string>
 
-    <string name="feature_no_ads_title">"没有廣告"</string>
-    <string name="feature_no_ads_desc">"應用中没有显示任何广告"</string>
+    <string name="feature_no_ads_title">"沒有廣告"</string>
+    <string name="feature_no_ads_desc">"應用中没有顯示任何廣告"</string>
 
     <string name="feature_theme_title">"主题"</string>
     <string name="feature_theme_desc">"獲得黑色主题"</string>
 
-    <string name="feature_support_title">"客户支持"</string>
-    <string name="feature_support_desc">獲得高级用户支持"</string>
+    <string name="feature_support_title">"客户支援"</string>
+    <string name="feature_support_desc">獲得高级用户支援"</string>
 
     <!-- payment errors -->
-    <string name="error_payment_server_down">"付款服务器已關閉第. 请稍后再试."</string>
-    <string name="error_payment">"付款错误. 請稍后再试."</string>
-    <string name="error_payment_server">"付款伺服器错误 (%s). 請稍候再試."</string>
-    <string name="error_payment_ok_but_failed">"付款確定但未能升级到高级帳號. 请重新嘗試或聯繫開發商交易ID."</string>
-    <string name="error_promo_code_invalid">"優惠號碼不再有效."</string>
-    <string name="error_promo_code_not_found">"無法找到優惠號碼."</string>
+    <string name="error_payment_server_down">"付款伺服器已關閉. 請稍後再試."</string>
+    <string name="error_payment">"付款錯誤. 請稍後再試."</string>
+    <string name="error_payment_server">"付款伺服器錯誤 (%s). 請稍後再試."</string>
+    <string name="error_payment_ok_but_failed">"付款確定但未能升級到高级用戶. 請重新嘗試或聯繫開發商交易ID."</string>
+    <string name="error_promo_code_invalid">"優惠序號不再有效."</string>
+    <string name="error_promo_code_not_found">"無法找到優惠序號."</string>
 
 
 </resources>
