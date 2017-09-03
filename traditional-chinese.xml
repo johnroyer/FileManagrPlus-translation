@@ -725,16 +725,16 @@
     <string name="no_application">找不到符合的應用程式</string>
     <string name="requested_file_not_found">找不到符合的檔案</string>
     
-    <string name="noti_server_is_on">"FTP服务器正在运行"</string>
+    <string name="noti_server_is_on">FTP 伺服器正在運作當中</string>
     
-    <string name="drawer_open">"打开侧边栏"</string>
-    <string name="drawer_close">"关闭侧边栏"</string>
+    <string name="drawer_open">顯示導覽列</string>
+    <string name="drawer_close">關閉導覽列</string>
     
-    <string name="settings_view">"视图"</string>
-    <string name="settings_sort">"排序"</string>
-    <string name="settings_sortby">"排序方式"</string>
-    <string name="settings_etc">"其他"</string>
-    <string name="settings_hidden">"显示隐藏文件"</string>
+    <string name="settings_view">顯示</string>
+    <string name="settings_sort">排列</string>
+    <string name="settings_sortby">排列方式</string>
+    <string name="settings_etc">其他</string>
+    <string name="settings_hidden">顯示隱藏檔</string>
     
     <string name="rate_title">"评论此应用程序"</string>
     <string name="rate_message">"如果你喜欢这应用程序，请给我们5星级."</string>
