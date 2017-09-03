@@ -711,12 +711,12 @@
     <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
     <string name="document_tree_for_operation_usb">需要您的授權，才能存取 USB 儲存空間</string>
 
-    <string name="include_system_apps">"所选应用程序里包括系统应用程序."</string>
-    <string name="file_count">"文件夹: %1$d, 文件: %2$d"</string>
-    <string name="delete_file_count">"文件夹: %1$d, 文件: %2$d, 大小: %3$s"</string>
-    <string name="delete_file_size">"大小: %s"</string>
-    <string name="prepare_paste_information">"准备粘贴信息中..."</string>
-    <string name="preparing">"准备中..."</string>
+    <string name="include_system_apps">您所選擇的應用程式包含系統用的應用程式</string>
+    <string name="file_count">"資料夾： %1$d，檔案： %2$d</string>
+    <string name="delete_file_count">資料夾： %1$d，檔案： %2$d，大小：%3$s</string>
+    <string name="delete_file_size">"大小： %s</string>
+    <string name="prepare_paste_information">準備移動檔案中 ...</string>
+    <string name="preparing">準備中 ...</string>
 
     <string name="search_hint">"搜索"</string>
     <string name="search_settings_description">"搜索文件"</string>
