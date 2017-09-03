@@ -736,14 +736,14 @@
     <string name="settings_etc">其他</string>
     <string name="settings_hidden">顯示隱藏檔</string>
     
-    <string name="rate_title">"评论此应用程序"</string>
-    <string name="rate_message">"如果你喜欢这应用程序，请给我们5星级."</string>
+    <string name="rate_title">為 App 評分</string>
+    <string name="rate_message">若您喜歡我們的 App，請在 Google Play 給我們 5 顆星</string>
     <!-- rate options -->
-   	<string name="rate_yes">"评估5★"</string>
+   	<string name="rate_yes">給我們 5 顆星</string>
     <!-- rate options -->
-    <string name="rate_not_now">"暂时不"</string>
+    <string name="rate_not_now">鎮時不要</string>
     <!-- rate options -->
-    <string name="rate_never">"决不"</string>
+    <string name="rate_never">不再顯示</string>
     
     <string name="back_again_to_exit">"再次按返回按钮退出"</string>
     <string name="download_app_to_open_files">"下载%1$s打开%2$s文件"</string>
