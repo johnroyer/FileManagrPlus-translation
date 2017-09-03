@@ -718,12 +718,12 @@
     <string name="prepare_paste_information">準備移動檔案中 ...</string>
     <string name="preparing">準備中 ...</string>
 
-    <string name="search_hint">"搜索"</string>
-    <string name="search_settings_description">"搜索文件"</string>
-    <string name="search_location">"搜索: %1$s"</string>
+    <string name="search_hint">搜尋</string>
+    <string name="search_settings_description">搜尋檔案</string>
+    <string name="search_location">搜尋：%1$s</string>
     
-    <string name="no_application">"未找到应用程序"</string>
-    <string name="requested_file_not_found">"找不到请求的文件."</string>
+    <string name="no_application">找不到符合的應用程式</string>
+    <string name="requested_file_not_found">找不到符合的檔案</string>
     
     <string name="noti_server_is_on">"FTP服务器正在运行"</string>
     
