@@ -706,10 +706,10 @@
     <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
     <string name="document_tree_for_operation_sdcard">需要您的授權，才能存取 SD 卡</string>
 
-    <string name="document_tree_failed_not_root_usb">"选定的文件夹不是USB存储的最上一级目录. 请重试一下."</string>
-    <string name="document_tree_failed_not_usb">"选定的存储不是USB存储. 请重试一下."</string>
+    <string name="document_tree_failed_not_root_usb">選擇的資料夾 USB 儲存空間的最上層目錄，請重試</string>
+    <string name="document_tree_failed_not_usb">選擇的儲存空間不是 USB，請重試</string>
     <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
-    <string name="document_tree_for_operation_usb">"为了操作您需要允许访问USB."</string>
+    <string name="document_tree_for_operation_usb">需要您的授權，才能存取 USB 儲存空間</string>
 
     <string name="include_system_apps">"所选应用程序里包括系统应用程序."</string>
     <string name="file_count">"文件夹: %1$d, 文件: %2$d"</string>
