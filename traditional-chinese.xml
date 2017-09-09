@@ -758,13 +758,13 @@
     <string name="file_is_downloaded">'%s' 已下載</string> <!-- abc.jpg is downloaded -->
     <string name="open_download_folder">開啟資料夾</string>
 
-    <string name="photos_today">"今天拍摄的%d张照片"</string> <!-- 10 photos taken today -->
-    <string name="see_photos_today">"看照片"</string>
+    <string name="photos_today">今天拍攝的 %d 張照片</string> <!-- 10 photos taken today -->
+    <string name="see_photos_today">看照片</string>
 
-    <string name="notifications">"提示音"</string>
-    <string name="noti_new_photos">"新照片"</string>
-    <string name="noti_storage_full">"存储已满"</string>
-    <string name="noti_download">"下载"</string>
+    <string name="notifications">通知</string>
+    <string name="noti_new_photos">新照片</string>
+    <string name="noti_storage_full">空間已滿</string>
+    <string name="noti_download">下載</string>
 
     <plurals name="compressed_items_plurals">
         <item quantity="one">"总共%1$d项压缩为%2$s"</item>
