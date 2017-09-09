@@ -745,18 +745,18 @@
     <!-- rate options -->
     <string name="rate_never">不再顯示</string>
     
-    <string name="back_again_to_exit">"再次按返回按钮退出"</string>
-    <string name="download_app_to_open_files">"下载%1$s打开%2$s文件"</string>
-    <string name="download_action">"下载"</string>
+    <string name="back_again_to_exit">再按一次離開</string>
+    <string name="download_app_to_open_files">"下載 %1$s 以便開啟 %2$s</string>
+    <string name="download_action">下載</string>
 
     <!-- ex: Main Storage is full (98%) or Sd card is full (95%) -->
-    <string name="storage_is_full">"%1$s空间已满 (%2$s)"</string>
-    <string name="storage_clean_up">"清除"</string>
-    <string name="not_enougth_space">"您的%s空间不足"</string>
-    <string name="storage_delete_unnecessary_files">"删除%s上不必要的文件"</string>
+    <string name="storage_is_full">%1$s 空間已使用 %2$s</string>
+    <string name="storage_clean_up">清理</string>
+    <string name="not_enougth_space">%s 儲存空間不足</string>
+    <string name="storage_delete_unnecessary_files">删除 %s 上不必要的檔案</string>
 
-    <string name="file_is_downloaded">"'%s'已下载"</string> <!-- abc.jpg is downloaded -->
-    <string name="open_download_folder">"打开下载文件夹"</string>
+    <string name="file_is_downloaded">'%s' 已下載</string> <!-- abc.jpg is downloaded -->
+    <string name="open_download_folder">開啟資料夾</string>
 
     <string name="photos_today">"今天拍摄的%d张照片"</string> <!-- 10 photos taken today -->
     <string name="see_photos_today">"看照片"</string>
