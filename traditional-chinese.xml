@@ -767,12 +767,12 @@
     <string name="noti_download">下載</string>
 
     <plurals name="compressed_items_plurals">
-        <item quantity="one">"总共%1$d项压缩为%2$s"</item>
-        <item quantity="other">"总共%1$d项压缩为%2$s"</item>
+        <item quantity="one">%1$d 的資料已壓縮為 %2$s</item>
+        <item quantity="other">%1$d 的資料已壓縮為 %2$s</item>
     </plurals>
     <plurals name="extracted_items_plurals">
-        <item quantity="one">"总共%1$d项解压到%2$s"</item>
-        <item quantity="other">"总共%1$d项解压到%2$s"</item>
+        <item quantity="one">%1$d 的資料已解壓縮到 %2$s</item>
+        <item quantity="other">%1$d 的資料已解壓縮到 %2$s</item>
     </plurals>
 
     <!-- Result message for moving single item to other folder -->
