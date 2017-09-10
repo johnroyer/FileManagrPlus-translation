@@ -776,17 +776,17 @@
     </plurals>
 
     <!-- Result message for moving single item to other folder -->
-    <string name="moved_single_item">"'%1$s'移动到%2$s"</string>
+    <string name="moved_single_item">正將 %1$s 移動到%2$s</string>
     <plurals name="moved_items_plurals">
-        <item quantity="one">"总共%1$d项移动到%2$s"</item>
-        <item quantity="other">"总共%1$d项移动到%2$s"</item>
+        <item quantity="one">共移動 %1$d 個檔案到 %2$s</item>
+        <item quantity="other">共移動 %1$d 個檔案到 %2$s</item>
     </plurals>
 
     <!-- Result message for copying single item to other folder -->
-    <string name="copied_single_item">"'%1$s'复制到%2$s"</string>
+    <string name="copied_single_item">正將 %1$s 複製到 %2$s</string>
     <plurals name="copied_items_plurals">
-        <item quantity="one">"总共%1$d项复制到%2$s"</item>
-        <item quantity="other">"总共%1$d项复制到%2$s"</item>
+        <item quantity="one">共複製 %1$d 的檔案 %2$s</item>
+        <item quantity="other">共複製 %1$d 的檔案 %2$s</item>
     </plurals>
 
     <!-- Result message for deleting single item -->
