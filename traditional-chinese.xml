@@ -884,13 +884,13 @@
 
 
     <!-- settings app: sdcard_settings_not_present_status default -->
-    <string name="no_sdcard">"没有SD卡"</string>
+    <string name="no_sdcard">找不到 SD 卡</string>
     <!-- settings app: sdcard_settings_mass_storage_status default -->
-    <string name="sdcard_used_as_mass_storage">"SD卡用作大容量存储设备."</string>
+    <string name="sdcard_used_as_mass_storage">SD 卡已被作為儲存裝置使用</string>
     <!-- settings app: sdcard_settings_not_present_status nosdcard -->
-    <string name="usb_storage_no_mount">"主存储未安装."</string>
+    <string name="usb_storage_no_mount">內建儲存空間未掛載</string>
     <!-- settings app: sdcard_settings_mass_storage_status nosdcard -->
-    <string name="usb_storage_used_as_mass_storage">"主存用作大容量存储设备."</string>
+    <string name="usb_storage_used_as_mass_storage">內建儲存哭間已被作為儲存裝置使用</string>
 
     <!-- Not Used Anymore -->
     <string name="clipboard">"%1$s %2$s和%3$d等文件"</string>
