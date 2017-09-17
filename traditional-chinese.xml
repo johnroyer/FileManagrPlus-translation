@@ -1030,15 +1030,15 @@
     <string name="use_recycle_bin">"預設使用資源回收桶"</string>
 
     <!-- settings for showing 'delete to recycle bin' confirmation dialog -->
-    <string name="recycle_bin_confirmation">"確認要刪除?"</string>
+    <string name="recycle_bin_confirmation">"確認要刪除？"</string>
 
     <!-- Confirmation message for moving single file to recycle bin by filename -->
-    <string name="confirm_recyclebin_single_item">"您確定'%s'移至資源回收桶?"</string>
+    <string name="confirm_recyclebin_single_item">"您確定'%s'移至資源回收桶？"</string>
 
     <!-- Confirmation message for moving to recycle bin by item count -->
     <plurals name="confirm_recyclebin_items_plurals">
-        <item quantity="one">"您確定將 %d 項移至資源回收桶?"</item>
-        <item quantity="other">"您確定將 %d 項移至資源回收桶?"</item>
+        <item quantity="one">"您確定將 %d 項移至資源回收桶？"</item>
+        <item quantity="other">"您確定將 %d 項移至資源回收桶？"</item>
     </plurals>
 
     <!-- Message for result of moving single file to recycle bin -->
@@ -1066,7 +1066,7 @@
 
     <!-- menu for empty recycle bin long string -->
     <string name="empty_recycle_bin">"清空資源回收桶"</string>
-    <string name="empty_recycle_bin_message">"確定要清空資源回收桶嗎?"</string>
+    <string name="empty_recycle_bin_message">"確定要清空資源回收桶嗎？"</string>
 
     <!-- delete permanently instead of moving to recycle bin -->
     <string name="menu_permanently_delete">"永久刪除"</string>
@@ -1134,10 +1134,10 @@
     <string name="backup_failed">"備份失敗"</string>
 
     <!-- Confirm dialog message. Local copy of remote or cloud file is changed. Do you want to upload it to the server or cloud? -->
-    <string name="confirm_upload_changed_file">"'%s'被更改. 您要上傳嗎?"</string>
+    <string name="confirm_upload_changed_file">"'%s'被更改. 您要上傳嗎？"</string>
 
     <!-- Confirm dialog message. Archive file (.zip file) is changed. Do you want to update it? -->
-    <string name="confirm_uppdate_changed_archive">"'%s'被更改. 您要更新嗎?"</string>
+    <string name="confirm_uppdate_changed_archive">"'%s'被更改. 您要更新嗎？"</string>
 
     <!-- error message -->
     <string name="error_illegal_filename">"檔案名稱包含非法字元"</string>
