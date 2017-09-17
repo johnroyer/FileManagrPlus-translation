@@ -809,24 +809,23 @@
     <string name="num_items_unknown"> - 項</string>
 
     <!-- sort options -->
-    <string name="sort_no_sort">"没有排序"</string>
+    <string name="sort_no_sort">不排序</string>
     <!-- sort options -->
-    <string name="sort_name_ascend">"名称 ↑"</string>
+    <string name="sort_name_ascend">檔名 ↑</string>
     <!-- sort options -->
-    <string name="sort_name_descend">"名称 ↓"</string>
+    <string name="sort_name_descend">檔名 ↓</string>
     <!-- sort options -->
-    <string name="sort_size_ascend">"大小 ↑"</string>
+    <string name="sort_size_ascend">大小 ↑</string>
     <!-- sort options -->
-    <string name="sort_size_descend">"大小 ↓"</string>
+    <string name="sort_size_descend">大小 ↓</string>
     <!-- sort options -->
-    <string name="sort_date_ascend">"时间 ↑"</string>
+    <string name="sort_date_ascend">建立時間 ↑</string>
     <!-- sort options -->
-    <string name="sort_date_descend">"时间 ↓
-"</string>
+    <string name="sort_date_descend">建立時間 ↓</string>
     <!-- sort options : File type -->
-    <string name="sort_type_ascend">"类型 ↑"</string>
+    <string name="sort_type_ascend">檔案類型 ↑</string>
     <!-- sort options : File type -->
-    <string name="sort_type_descend">"类型 ↓"</string>
+    <string name="sort_type_descend">檔案類型 ↓</string>
 
     <!-- error message -->
     <string name="error">"错误"</string>
