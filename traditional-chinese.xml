@@ -967,241 +967,241 @@
     <string name="notifications_settings">訊息通知設定</string>
 
     <!-- Settings for showing "System" in the storage list, System storage is the space where OS and system applications are installed -->
-    <string name="setting_show_system">"显示系统存储"</string>
-    <string name="show_advanced_menus">"显示高级菜单"</string>
+    <string name="setting_show_system">顯示系統設定</string>
+    <string name="show_advanced_menus">顯示進階設定</string>
 
     <!-- Preference which shows about screen with legal info, etc. [CHAR LIMIT=50] -->
-    <string name="about_preference">"关于"</string>
+    <string name="about_preference">關於</string>
 
     <!-- Preference which shows version. [CHAR LIMIT=50] -->
-    <string name="about_version">"版本"</string>
+    <string name="about_version">版本</string>
 
-    <string name="music_player">"音乐播放器"</string>
-    <string name="image_viewer">"图像浏览器"</string>
-    <string name="text_editor">"文本编辑器"</string>
+    <string name="music_player">音樂撥放器</string>
+    <string name="image_viewer">圖片瀏覽器</string>
+    <string name="text_editor">文字編輯器</string>
 
     <!-- Use settings for image viewer in the app -->
-    <string name="use_internal_image_viewer">"使用内部图像浏览器"</string>
+    <string name="use_internal_image_viewer">使用內建圖片瀏覽器</string>
 
     <!-- Use settings for text editor in the app -->
-    <string name="use_internal_text_editor">"使用内部文本编辑器"</string>
+    <string name="use_internal_text_editor">使用內建文字編輯器</string>
 
     <!-- Use settings for music player in the app -->
-    <string name="use_internal_music_player">"使用内部音乐播放器"</string>
+    <string name="use_internal_music_player">使用內建音樂撥放器</string>
 
     <!-- error message for music player -->
-    <string name="error_no_metadata">"无法检索元数据."</string>
+    <string name="error_no_metadata">無法獲取檔案資訊.</string>
 
     <!-- desciption of song name in music player -->
-    <string name="currently_playing_song">"正在播放的歌曲"</string>
+    <string name="currently_playing_song">目前播放的歌曲</string>
 
     <!-- descriptionp of artist name in music player -->
-    <string name="currently_playing_artist">"正在播放歌曲的歌手"</string>
+    <string name="currently_playing_artist">目前播放歌曲的歌手</string>
 
     <!-- description of music player -->
-    <string name="currently_playing_extra_info">"正在播放歌曲的额外信息"</string>
+    <string name="currently_playing_extra_info">目前播放歌曲的額外資訊</string>
 
     <!-- play or pause button in music player -->
-    <string name="play_pause">"播放或暂停"</string>
+    <string name="play_pause">播放/暫停</string>
 
     <!-- next song button in music player -->
-    <string name="skip_next">"跳到下一个"</string>
+    <string name="skip_next">下一首</string>
 
     <!-- previous song button in music player -->
-    <string name="skip_prev">"跳到上一个"</string>
+    <string name="skip_prev">上一首</string>
 
     <!-- description of albumart in music player -->
-    <string name="background_image_str">"专辑封面的背景图像"</string>
+    <string name="background_image_str">專輯封面背景圖片</string>
 
     <!-- title forrecycle bin for files -->
-    <string name="recycle_bin">"回收站"</string>
+    <string name="recycle_bin">資源回收桶</string>
 
     <!-- message of toast message. recycle bin is empty -->
-    <string name="recycle_bin_is_empty">"回收站为空"</string>
+    <string name="recycle_bin_is_empty">資源回收桶已空</string>
 
     <!-- menu for moving files to recycle bin -->
-    <string name="menu_move_to_recycle_bin">"移动到回收站"</string>
+    <string name="menu_move_to_recycle_bin">移至資源回收桶</string>
 
     <!-- settings for files -->
-    <string name="recycle_bin_settings">"回收站设置"</string>
+    <string name="recycle_bin_settings">資源回收桶設定</string>
 
     <!-- Use settings for recycle bin -->
-    <string name="use_recycle_bin">"默认使用回收站"</string>
+    <string name="use_recycle_bin">預設使用資源回收桶</string>
 
     <!-- settings for showing 'delete to recycle bin' confirmation dialog -->
-    <string name="recycle_bin_confirmation">"表示回收站删除确认"</string>
+    <string name="recycle_bin_confirmation">確認要刪除？</string>
 
     <!-- Confirmation message for moving single file to recycle bin by filename -->
-    <string name="confirm_recyclebin_single_item">"你确定'%s'移到回收站吗?"</string>
+    <string name="confirm_recyclebin_single_item">您確定'%s'移至資源回收桶？</string>
 
     <!-- Confirmation message for moving to recycle bin by item count -->
     <plurals name="confirm_recyclebin_items_plurals">
-        <item quantity="one">"您确定%d项移动到回收站吗?"</item>
-        <item quantity="other">"您确定%d项移动到回收站吗?"</item>
+        <item quantity="one">您確定將 %d 項移至資源回收桶？</item>
+        <item quantity="other">您確定將 %d 項移至資源回收桶？</item>
     </plurals>
 
     <!-- Message for result of moving single file to recycle bin -->
-    <string name="recycled_single_item">"'%s'移动到回收站."</string>
+    <string name="recycled_single_item">'%s' 移至資源回收桶.</string>
 
     <!-- Message for result of moving files to recycle bin -->
     <plurals name="recycled_items_plurals">
-        <item quantity="one">"总共%d项移动到回收站"</item>
-        <item quantity="other">"总共%d项移动到回收站"</item>
+        <item quantity="one">總共 %d 項移至資源回收桶</item>
+        <item quantity="other">總共 %d 項移至資源回收桶</item>
     </plurals>
 
     <!-- Message for result of restoring single file from the recycle bin -->
-    <string name="restored_single_item">"从回收站还原'%s'"</string>
+    <string name="restored_single_item">從資源回收桶還原 '%s'</string>
 
     <!-- Message for result of restoring files from the recycle bin -->
     <plurals name="restored_items_plurals">
-        <item quantity="one">"从回收站还原了%d项"</item>
-        <item quantity="other">"从回收站还原了%d项"</item>
+        <item quantity="one">從資源回收桶還原了 %d 項</item>
+        <item quantity="other">從資源回收桶還原了 %d 項</item>
     </plurals>
 
-    <string name="restore_failed">"无法还原文件"</string>
+    <string name="restore_failed">無法還原檔案</string>
 
     <!-- menu for empty recycle bin short string -->
-    <string name="menu_empty">"清空"</string>
+    <string name="menu_empty">清空</string>
 
     <!-- menu for empty recycle bin long string -->
-    <string name="empty_recycle_bin">"清空回收站"</string>
-    <string name="empty_recycle_bin_message">"确定要清空回收站吗?"</string>
+    <string name="empty_recycle_bin">清空資源回收桶</string>
+    <string name="empty_recycle_bin_message">確定要清空資源回收桶嗎？</string>
 
     <!-- delete permanently instead of moving to recycle bin -->
-    <string name="menu_permanently_delete">"永久删除"</string>
+    <string name="menu_permanently_delete">永久刪除</string>
 
     <!-- Menu for restoring file from the recycle bin -->
-    <string name="menu_restore">"还原"</string>
+    <string name="menu_restore">還原</string>
 
     <!-- Menu for undoing operation (ex: undo delete) -->
-    <string name="menu_undo">"取消"</string>
+    <string name="menu_undo">取消</string>
 
 
     <!-- Recycle progress dialog title. It is sending files to the recycle bin now -->
-    <string name="progress_moving_to_recycle_bin">"回收中"</string>
+    <string name="progress_moving_to_recycle_bin">刪除中</string>
 
     <!-- Restore progress dialog title. It is restoring files from the recycle bin now -->
-    <string name="progress_restoring_from_recycle_bin">"还原中"</string>
+    <string name="progress_restoring_from_recycle_bin">還原中</string>
 
     <!-- Message for the recycle bin is full. -->
-    <string name="recycle_bin_full">"回收站已满 (%s)"</string>
+    <string name="recycle_bin_full">資源回收桶已滿 (<xliff:g id="大小" example="100MB">%s</xliff:g>)</string>
 
     <!-- Message for how much size of files deleted to the recycle bin -->
-    <string name="recycle_bin_deleted_size">"%s文件移动到回收站"</string>
+    <string name="recycle_bin_deleted_size"><xliff:g id="大小" example="100MB">%s</xliff:g> 檔案移至資源回收桶</string>
 
     <!-- Switch On/Off  -->
-    <string name="switch_on_text">"启动"</string>
-    <string name="switch_off_text">"关闭"</string>
+    <string name="switch_on_text">開啟</string>
+    <string name="switch_off_text">關閉</string>
 
     <!-- Scanning storage for media files -->
-    <string name="scanning_for_files">"文件扫描中..."</string>
+    <string name="scanning_for_files">檔案掃描中...</string>
 
     <!-- description of storage analysis -->
     <!--<string name="storage_analysis_description">Storage analysis : You can analyze local storages to clean up useless files. You can find out which files take up the most space.</string>-->
 
     <!-- retry button -->
-    <string name="retry">"重试"</string>
+    <string name="retry">重試</string>
 
     <!-- menu for batch (multi) rename -->
-    <string name="menu_batch_rename">"批量重命名"</string>
+    <string name="menu_batch_rename">批次重新命名</string>
 
     <!-- Settings for hide/unhide menu -->
-    <string name="settings_hide_unhide">"隐藏/取消隐藏"</string>
+    <string name="settings_hide_unhide">隱藏/顯示</string>
 
     <!-- menu to hide the item -->
-    <string name="menu_hide">"隐藏"</string>
+    <string name="menu_hide">隱藏</string>
 
     <!-- menu to show(unhide) the hidden item -->
-    <string name="menu_unhide">"取消隐藏"</string>
+    <string name="menu_unhide">顯示</string>
 
     <!-- Setting for selection UI -->
-    <string name="setting_tap_icon_to_select">"点击图标选择"</string>
+    <string name="setting_tap_icon_to_select">點擊圖示選擇</string>
 
     <!-- Description of setting for selection UI -->
-    <string name="setting_tap_icon_to_select_desc">"点击项目的图标或长按选择几个项目"</string>
+    <string name="setting_tap_icon_to_select_desc">點擊圖示或長按選擇多個檔案</string>
 
     <!-- Setting for always show navigation icon -->
-    <string name="setting_always_show_nav_icon">"总是显示搜索图标 (☰)"</string>
+    <string name="setting_always_show_nav_icon">總是顯示搜尋圖示 (☰)</string>
 
     <!-- noticiation settings. ex) Show when the storage is over 95% full -->
-    <string name="storage_full_threshold_explanation">"使用空间超过%s时显示"</string>
+    <string name="storage_full_threshold_explanation">使用空間超過 %s 時顯示</string>
 
     <!-- Title of dialog for backup data -->
-    <string name="title_backup">"备份"</string>
+    <string name="title_backup">備份</string>
 
     <!-- Message for backup failure -->
-    <string name="backup_failed">"未能备份"</string>
+    <string name="backup_failed">備份失敗</string>
 
     <!-- Confirm dialog message. Local copy of remote or cloud file is changed. Do you want to upload it to the server or cloud? -->
-    <string name="confirm_upload_changed_file">"'%s'被更改. 你要上传吗?"</string>
+    <string name="confirm_upload_changed_file">'%s' 被更改. 您要上傳嗎？</string>
 
     <!-- Confirm dialog message. Archive file (.zip file) is changed. Do you want to update it? -->
-    <string name="confirm_uppdate_changed_archive">"'%s'被更改. 你要更新吗?"</string>
+    <string name="confirm_uppdate_changed_archive">'%s' 被更改. 您要更新嗎？</string>
 
     <!-- error message -->
-    <string name="error_illegal_filename">"文件名包含非法字符"</string>
+    <string name="error_illegal_filename">檔案名稱包含非法字元</string>
 
     <!-- error message -->
-    <string name="error_file_too_large">"文件太大"</string>
+    <string name="error_file_too_large">檔案過大</string>
 
     <!-- error message -->
-    <string name="error_unsupported_encryption">"不支持的加密方式"</string>
+    <string name="error_unsupported_encryption">不支援的加密格式</string>
 
     <!-- error message -->
-    <string name="error_read_only_delete">"不能删除只能读文件"</string>
+    <string name="error_read_only_delete">無法刪除唯讀檔案</string>
 
     <!-- theme -->
-    <string name="title_theme">"主题"</string>
+    <string name="title_theme">主題</string>
 
     <!-- title for premium version -->
-    <string name="title_premium">"高级账户"</string>
+    <string name="title_premium">高級帳戶</string>
 
     <!-- menu to Uprade to premium version -->
-    <string name="upgrade_to_premium">"升级到高级账户"</string>
+    <string name="upgrade_to_premium">升級到高級帳戶</string>
 
-    <string name="billed_yearly">"每年付款"</string>
+    <string name="billed_yearly">每年付款</string>
 
     <!-- payment description -->
-    <string name="payment_description">"您将每年自动付款%s订阅1年, 直至您取消订阅为止. 除非法律要求, 已付的费用不提供退款."</string>
+    <string name="payment_description">您將每年自動付款 %s 訂閱 1 年, 您取消訂閱為止. 除非法律要求, 已付的費用將不提供退款.</string>
 
     <!-- payment action menu -->
-    <string name="payment_action">"立即购买"</string>
+    <string name="payment_action">立即購買</string>
 
     <!-- payment action menu : Promotion Code -->
-    <string name="payment_promo_code">"优惠号码"</string>
+    <string name="payment_promo_code">優惠序號</string>
 
     <!-- Error message : Invalid Promotion code -->
-    <string name="invalid_promo_code">"无效的优惠号码"</string>
+    <string name="invalid_promo_code">無效的優惠序號</string>
 
     <!-- Menu for managing subscription -->
-    <string name="manage_subscription">"管理订阅"</string>
+    <string name="manage_subscription">管理訂閱</string>
 
     <!-- menu to remove advertisement -->
-    <string name="remove_ads">"删除广告"</string>
-    <string name="remove_ads_desc">"应用程序里删除广告"</string>
+    <string name="remove_ads">刪除廣告</string>
+    <string name="remove_ads_desc">刪除應用程式中的廣告</string>
 
     <!-- Premium expired on ex) Expires on Mar 25, 2017 -->
-    <string name="premium_expires_on">"过期于%s"</string>
+    <string name="premium_expires_on">將於 %s 過期</string>
 
     <!-- title for premium features list -->
-    <string name="title_premium_features">"高级功能"</string>
+    <string name="title_premium_features">高级功能</string>
 
-    <string name="feature_no_ads_title">"没有廣告"</string>
-    <string name="feature_no_ads_desc">"應用中没有显示任何广告"</string>
+    <string name="feature_no_ads_title">没有廣告</string>
+    <string name="feature_no_ads_desc">應用程式中没有廣告</string>
 
-    <string name="feature_theme_title">"主题"</string>
-    <string name="feature_theme_desc">"獲得黑色主题"</string>
+    <string name="feature_theme_title">主题</string>
+    <string name="feature_theme_desc">獲得黑色主题</string>
 
-    <string name="feature_support_title">"客户支持"</string>
-    <string name="feature_support_desc">獲得高级用户支持"</string>
+    <string name="feature_support_title">客戶支援</string>
+    <string name="feature_support_desc">取得高級客戶支援</string>
 
     <!-- payment errors -->
-    <string name="error_payment_server_down">"付款服务器已關閉第. 请稍后再试."</string>
-    <string name="error_payment">"付款错误. 請稍后再试."</string>
-    <string name="error_payment_server">"付款伺服器错误 (%s). 請稍候再試."</string>
-    <string name="error_payment_ok_but_failed">"付款確定但未能升级到高级帳號. 请重新嘗試或聯繫開發商交易ID."</string>
-    <string name="error_promo_code_invalid">"優惠號碼不再有效."</string>
-    <string name="error_promo_code_not_found">"無法找到優惠號碼."</string>
+    <string name="error_payment_server_down">付款伺服器已關閉. 請稍後再試.</string>
+    <string name="error_payment">付款失敗. 請稍後再試.</string>
+    <string name="error_payment_server">付款伺服器錯誤 (%s). 請稍後再試.</string>
+    <string name="error_payment_ok_but_failed">付款成功但無法升至高級帳號. 請重新嘗試或將交易 ID 詢問開發商.</string>
+    <string name="error_promo_code_invalid">優惠序號已失效.</string>
+    <string name="error_promo_code_not_found">無法找到優惠序號.</string>
 
 
 </resources>
