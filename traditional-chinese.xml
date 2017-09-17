@@ -893,54 +893,54 @@
     <string name="usb_storage_used_as_mass_storage">內建儲存哭間已被作為儲存裝置使用</string>
 
     <!-- Not Used Anymore -->
-    <string name="clipboard">"%1$s %2$s和%3$d等文件"</string>
-    <string name="clipboard_one">"%1$s 文件 %2$s"</string>
-    <string name="desktop_add">"添加新位置"</string>
-    <string name="dialog_hint_domain">"可选域名"</string>
+    <string name="clipboard">"%1$s、%2$s 和 %3$d 等檔案</string>
+    <string name="clipboard_one">"%1$s 檔案 %2$s"</string>
+    <string name="desktop_add">新增路徑</string>
+    <string name="dialog_hint_domain">網域名稱 (選填)</string>
 
     <!-- msg for opeeration cancelled -->
-    <string name="cancelled">"已取消"</string>
+    <string name="cancelled">已取消</string>
 
     <!-- title for confirm dialog -->
-    <string name="confirm">"确认"</string>
+    <string name="confirm">確認</string>
 
     <!-- message of confirm dialog to use mobile network -->
-    <string name="confirm_large_file_over_mobile">"文件容量太大。你愿意继续通过移动网络操作吗？"</string>
+    <string name="confirm_large_file_over_mobile">檔案極大，請問您仍然要繼續使用行動網路進行操作嗎？</string>
 
     <!-- message of confirm dialog to save changes -->
-    <string name="confirm_save">"要保存改变吗？"</string>
+    <string name="confirm_save">確認儲存？</string>
 
     <!-- menu for save -->
-    <string name="save">"保存"</string>
+    <string name="save">儲存</string>
 
     <!-- menu for do not save -->
-    <string name="dontsave">"不保存"</string>
+    <string name="dontsave">不儲存</string>
 
     <!-- text encoding for text files -->
-    <string name="text_encoding">"编码"</string>
+    <string name="text_encoding">編碼</string>
 
-    <string name="automatic">"自动"</string>
+    <string name="automatic">自動</string>
 
     <!-- (example) Open as image, Open as video -->
-    <string name="open_as">"作为"</string>
+    <string name="open_as">開啟檔案為：</string>
 
     <!-- Menu for open file with other than default application. It's same with 'Open with' menu in windows explorer context menu -->
-    <string name="open_with">"打开为"</string>
+    <string name="open_with">使用應用程式開啟：</string>
 
     <!-- Text file -->
-    <string name="text">"文本"</string>
+    <string name="text">文字檔</string>
 
     <!-- Image file -->
-    <string name="image">"图片"</string>
+    <string name="image">影像</string>
 
     <!-- Audio file -->
-    <string name="audio">"音频"</string>
+    <string name="audio">音訊</string>
 
     <!-- Video file -->
-    <string name="video">"视频"</string>
+    <string name="video">影片</string>
 
     <!-- Other files -->
-    <string name="other">"其他"</string>
+    <string name="other">其他</string>
 
     <!-- Server hostname -->
     <string name="enter_host">"请输入主机名."</string>
