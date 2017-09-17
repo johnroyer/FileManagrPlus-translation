@@ -828,53 +828,53 @@
     <string name="sort_type_descend">檔案類型 ↓</string>
 
     <!-- error message -->
-    <string name="error">"错误"</string>
+    <string name="error">錯誤</string>
 
     <!-- error message when file not found -->
-    <string name="error_file_not_found">"找不到文件"</string>
+    <string name="error_file_not_found">找不到檔案</string>
 
     <!-- error message when not enough storage -->
-    <string name="error_not_enough_storage">"存储空间不足"</string>
+    <string name="error_not_enough_storage">儲存空間不足</string>
 
     <!-- error message when app could not save the file -->
-    <string name="error_file_save">"无法保存文件"</string>
+    <string name="error_file_save">無法儲存檔案</string>
 
     <!-- error messaga when app could not load the file -->
-    <string name="error_file_load">"无法加载文件"</string>
+    <string name="error_file_load">無法讀取檔案</string>
 
     <!-- error message when app could not update the archive file(compressed file). -->
-    <string name="failed_to_update_archive">"无法更新归档文件"</string>
+    <string name="failed_to_update_archive">無法更新壓縮檔</string>
 
     <!-- error message for the android 4.4 users. Writie to the sdcard in 3rd party apps is not possible in the android 4.4 -->
-    <string name="error_kitkat_sdcard">"保存SD卡是由安卓4.4系统所限制的"</string>
+    <string name="error_kitkat_sdcard">無法在 Android 4.4 中修改 SD 中的資料</string>
 
     <!-- error message -->
-    <string name="error_too_large_to_open">"文件容量太大，无法打开."</string>
+    <string name="error_too_large_to_open">檔案過大，無法開啟</string>
 
     <!-- error message for network error -->
-    <string name="error_network">"发生网络错误."</string>
+    <string name="error_network">網路發生問題</string>
 
     <!-- error message -->
-    <string name="error_usb_removed">"USB存储已删除."</string>
+    <string name="error_usb_removed">USB 裝置已卸載</string>
 
     <!-- error message -->
-    <string name="no_apps_to_open_file">"没有安装可打开此类型的文件的应用程序"</string>
+    <string name="no_apps_to_open_file">找不到可打開此類型檔案的應用程式</string>
 
     <!-- error message -->
-    <string name="error_not_text_file">"不是文本文件"</string>
+    <string name="error_not_text_file">不是文字檔案</string>
 
     <!-- Error message in search. App could not show search result because error was raised in search. -->
-    <string name="error_file_search">"无法搜索文件"</string>
+    <string name="error_file_search">檔案搜尋失敗</string>
 
     <!-- tried to open archive file (ex. zip, rar, ...) but it could not be opened because it's damaged or in unknown format -->
-    <string name="archive_is_damaged">"压缩的文件格式未知或损坏"</string>
+    <string name="archive_is_damaged">未知格式的壓縮檔、或是壓縮檔已損毀</string>
 
     <!-- error message for file or directory is corrupted -->
-    <string name="file_corrupted">"该文件或目录已损坏和不可读取"</string>
+    <string name="file_corrupted">檔案或資料夾讀取失敗</string>
     <!-- ex) NTFS file system is not supported -->
-    <string name="not_supported_filesystem">"%s文件系统是不支持的."</string>
+    <string name="not_supported_filesystem">不支援 %s 檔案系統</string>
     <!-- external storage device (ex: USB Mass storage) is not recognized, so can't open -->
-    <string name="storage_device_not_recognized">"存储设备无法认识"</string>
+    <string name="storage_device_not_recognized">無法便是的儲存裝置</string>
 
     <!-- warning over mobile network -->
     <string name="warning_mobile_network">"总大小为%s. 您确定要继续通过移动网络进行操作吗？"</string>
