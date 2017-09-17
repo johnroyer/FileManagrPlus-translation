@@ -943,28 +943,28 @@
     <string name="other">其他</string>
 
     <!-- Server hostname -->
-    <string name="enter_host">"请输入主机名."</string>
+    <string name="enter_host">請輸入主機名稱</string>
 
     <!-- error message for renaming file -->
-    <string name="contains_special_characters">"文件名不能包含以下任何字符: \\ / : * ? \" &lt; &gt; |"</string>
+    <string name="contains_special_characters">檔案名不能包含以下符號： \\ / : * ? \" &lt; &gt; |</string>
 
     <!-- storage permission request -->
-    <string name="request_storage_permissions">"为了访问本地储存，请允许读取设备上的文件权限."</string>
+    <string name="request_storage_permissions">請授權此應用程式存取您的裝置</string>
 
     <!-- request account_permissions -->
-    <string name="request_account_permissions">"为了访问Google Drive, 请允许读取您的通讯录权限"</string>
+    <string name="request_account_permissions">請授權此應用程式存取聯絡人資訊，以便使用 Google Drive</string>
 
     <!-- permission settings menu -->
-    <string name="permission_settings">"权限设置"</string>
+    <string name="permission_settings">權限設定</string>
 
     <!-- General Settings -->
-    <string name="general_settings">"常规设置"</string>
+    <string name="general_settings">一般設定</string>
 
     <!-- Advanced settings -->
-    <string name="advanced_settings">"高级设置"</string>
+    <string name="advanced_settings">進階設定</string>
 
     <!-- settings for notifications -->
-    <string name="notifications_settings">"通知栏设置"</string>
+    <string name="notifications_settings">訊息通知設定</string>
 
     <!-- Settings for showing "System" in the storage list, System storage is the space where OS and system applications are installed -->
     <string name="setting_show_system">"显示系统存储"</string>
