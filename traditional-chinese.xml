@@ -877,10 +877,10 @@
     <string name="storage_device_not_recognized">無法便是的儲存裝置</string>
 
     <!-- warning over mobile network -->
-    <string name="warning_mobile_network">"总大小为%s. 您确定要继续通过移动网络进行操作吗？"</string>
+    <string name="warning_mobile_network">總大小為 %s，確定要使用行動網路繼續操作嗎？</string>
 
-    <string name="google_account_not_found">"Google帐户\"%s\"在设备中找不到"</string>
-    <string name="could_not_access_account">"无法连接帐户信息"</string>
+    <string name="google_account_not_found">找不到 Google 帳號</string>
+    <string name="could_not_access_account">無法取得帳號資訊</string>
 
 
     <!-- settings app: sdcard_settings_not_present_status default -->
