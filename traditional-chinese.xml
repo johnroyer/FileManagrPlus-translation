@@ -806,7 +806,7 @@
 	</plurals>
 
     <!-- label for unknown number of items. "1 item", "2 items" for know number. "- items" for unknown numbers -->
-    <string name="num_items_unknown">"- 项"</string>
+    <string name="num_items_unknown"> - 項</string>
 
     <!-- sort options -->
     <string name="sort_no_sort">"没有排序"</string>
