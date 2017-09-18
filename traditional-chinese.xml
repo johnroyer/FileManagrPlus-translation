@@ -1,628 +1,628 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Name : This is file manager app. It is following terms in the microsoft explorer program in windows PC. -->
-    <string name="app_name">"文件管理器+"</string>
+    <string name="app_name">文件管理器+</string>
 
     <!-- folder -->
-    <string name="filetype_folder">"資料夾"</string>
+    <string name="filetype_folder">資料夾</string>
 
     <!-- file -->
-    <string name="filetype_file">"檔案"</string>
+    <string name="filetype_file">檔案</string>
 
     <!-- menu for search -->
-    <string name="menu_search">"搜尋"</string>
+    <string name="menu_search">搜尋</string>
 
     <!-- menu for new file or folder -->
-    <string name="menu_new">"新增"</string>
+    <string name="menu_new">新增</string>
 
     <!-- file option in new dialog -->
-    <string name="menu_new_file">"檔案"</string>
+    <string name="menu_new_file">檔案</string>
 
     <!-- folder option in new dialog -->
-    <string name="menu_new_folder">"資料夾"</string>
+    <string name="menu_new_folder">資料夾</string>
 
     <!-- menu for adding new file location -->
-    <string name="menu_add">"新增"</string>
+    <string name="menu_add">新增</string>
 
     <!-- paste menu for copied files -->
-    <string name="menu_paste">"貼上"</string>
+    <string name="menu_paste">貼上</string>
 
     <!-- bookmark menu -->
-    <string name="menu_bookmark">"書籤"</string>
+    <string name="menu_bookmark">書籤</string>
 
     <!-- file browsing history -->
-    <string name="menu_history">"歷史記錄"</string>
+    <string name="menu_history">歷史記錄</string>
 
     <!-- settings -->
-    <string name="menu_settings">"設定"</string>
+    <string name="menu_settings">設定</string>
 
     <!-- view settings : grid view, list view. and sort order -->
-    <string name="menu_view_settings">"畫面設定"</string>
+    <string name="menu_view_settings">畫面設定</string>
 
     <!-- chart (graph) view of disk analysis -->
-    <string name="menu_chart">"圖表"</string>
+    <string name="menu_chart">圖表</string>
 
-    <string name="menu_list">"列表"</string>
+    <string name="menu_list">列表</string>
 
     <!-- menu for refresh -->
-    <string name="menu_refresh">"更新"</string>
+    <string name="menu_refresh">更新</string>
 
     <!-- menu for add new location -->
-    <string name="menu_add_location">"新位置"</string>
+    <string name="menu_add_location">新位置</string>
 
     <!-- menu for add new remote location : ftp, nas, ... -->
-    <string name="menu_add_remote">"新增遠端位置"</string>
+    <string name="menu_add_remote">新增遠端位置</string>
 
     <!-- menu for add new cloud location : dropbox, google drive, onedrive -->
-    <string name="menu_add_cloud">"新增網路儲存空間"</string>
+    <string name="menu_add_cloud">新增網路儲存空間</string>
 
     <!-- menu for copy : ctrl + c in windows explorer -->
-    <string name="menu_copy">"複製"</string>
+    <string name="menu_copy">複製</string>
 
     <!-- menu for cut : crtrl + x in windows explorer -->
-    <string name="menu_cut">"剪下"</string>
+    <string name="menu_cut">剪下</string>
 
     <!-- menu for move -->
-    <string name="menu_move">"移動"</string>
+    <string name="menu_move">移動</string>
 
     <!-- menu for deleting file -->
-    <string name="menu_delete">"刪除"</string>
+    <string name="menu_delete">刪除</string>
 
     <!-- Pin (as in to a bulletin board with a pushpin) a resolver
              target to the front of the list. -->
-    <string name="menu_pin">"釘選"</string>
+    <string name="menu_pin">釘選</string>
 
         <!-- menu for renaming file -->
-    <string name="menu_rename">"重新命名"</string>
+    <string name="menu_rename">重新命名</string>
 
     <!-- menu for add bookmark -->
-    <string name="menu_add_bookmark">"加入書籤"</string>
+    <string name="menu_add_bookmark">加入書籤</string>
 
     <!-- menu for compressing files to archive file (like .zip) -->
-    <string name="menu_compress">"壓縮"</string>
+    <string name="menu_compress">壓縮</string>
 
     <!-- menu for extracting an archive file like (.zip) -->
-    <string name="menu_extract">"解壓縮"</string>
+    <string name="menu_extract">解壓縮</string>
 
     <!-- menu for extract all files in an archive file -->
-    <string name="menu_extract_all">"全部解壓縮"</string>
+    <string name="menu_extract_all">全部解壓縮</string>
 
     <!-- menu for show properties of file -->
-    <string name="menu_properties">"屬性"</string>
+    <string name="menu_properties">屬性</string>
 
     <!-- menu for share -->
-    <string name="menu_share">"分享"</string>
+    <string name="menu_share">分享</string>
 
     <!-- menu for more -->
-    <string name="menu_more">"其他"</string>
+    <string name="menu_more">其他</string>
 
     <!-- menu for select all -->
-    <string name="menu_select_all">"全選"</string>
+    <string name="menu_select_all">全選</string>
 
     <!-- Install menu for apps -->
-    <string name="menu_install">"安装"</string>
+    <string name="menu_install">安装</string>
 
     <!-- menu for uninstall -->
-    <string name="menu_uninstall">"解安裝"</string>
+    <string name="menu_uninstall">解安裝</string>
 
     <!-- backup menu -->
-    <string name="menu_backup">"備份"</string>
+    <string name="menu_backup">備份</string>
 
     <!-- menu for adding shortcut to Home screen (Launcher) -->
-    <string name="menu_add_to_home_screen">"新增至主畫面"</string>
+    <string name="menu_add_to_home_screen">新增至主畫面</string>
 
     <!-- The title of the menu item to let user set the image as background etc. [CHAR LIMIT=15] -->
-    <string name="set_as">"設置為"</string>
+    <string name="set_as">設置為</string>
 
     <!-- String used as a menu label. The user can choose to edit the file [CHAR_LIMIT=20]-->
-    <string name="menu_edit">編輯"</string>
+    <string name="menu_edit">編輯</string>
 
     <!-- title for the tab of downloaded apps -->
-    <string name="apps_downloaded">"已下載"</string>
+    <string name="apps_downloaded">已下載</string>
 
     <!-- title for the tab of all apps -->
-    <string name="apps_all">"全部"</string>
+    <string name="apps_all">全部</string>
 
     <!-- home location -->
-    <string name="location_home">"主頁面"</string>
+    <string name="location_home">主頁面</string>
 
     <!-- local location : file locations in the device -->
-    <string name="location_local">"本地"</string>
+    <string name="location_local">本地</string>
 
     <!-- System location -->
-    <string name="location_system">"系统"</string>
+    <string name="location_system">系统</string>
 
     <!-- Main storage location -->
-    <string name="location_mainstorage">"主要儲存位置"</string>
+    <string name="location_mainstorage">主要儲存位置</string>
 
     <!-- sdcard location -->
-    <string name="location_sdcard">"SD 卡"</string>
+    <string name="location_sdcard">SD 卡</string>
 
     <!-- device's internal storage -->
-    <string name="location_internal_storage">"内部儲存設備"</string>
+    <string name="location_internal_storage">内部儲存設備</string>
 
     <!-- download folder location -->
-    <string name="location_download">"下載"</string>
+    <string name="location_download">下載</string>
 
     <!-- USB storage lcoation -->
-    <string name="location_usbstorage">"USB 儲存設備"</string>
+    <string name="location_usbstorage">USB 儲存設備</string>
 
     <!-- location for libraries : video, image, text.. -->
-    <string name="location_library">"資料庫"</string>
+    <string name="location_library">資料庫</string>
 
     <!-- loccation for pictures -->
-    <string name="location_picture">"照片"</string>
+    <string name="location_picture">照片</string>
 
     <!-- location for image files -->
-    <string name="location_images">"圖片"</string>
+    <string name="location_images">圖片</string>
 
     <!-- location for music files -->
-    <string name="location_music">"音樂"</string>
+    <string name="location_music">音樂</string>
 
     <!-- location for audio files -->
-    <string name="location_audio">"音訊"</string>
+    <string name="location_audio">音訊</string>
 
     <!-- location for video files -->
-    <string name="location_video">"影片"</string>
+    <string name="location_video">影片</string>
 
     <!-- location for document files -->
-    <string name="location_document">"文件"</string>
+    <string name="location_document">文件</string>
 
     <!-- location for text files -->
-    <string name="location_text">"文字"</string>
+    <string name="location_text">文字</string>
 
     <!-- location for presentation files like ppt -->
-    <string name="location_presentation">"投影片"</string>
+    <string name="location_presentation">投影片</string>
 
     <!-- location for spreadsheets files like excel -->
-    <string name="location_spreadsheet">"試算表"</string>
+    <string name="location_spreadsheet">試算表</string>
 
     <!-- location for archive files : compressed files -->
-    <string name="location_archive">"檔案庫"</string>
+    <string name="location_archive">檔案庫</string>
 
     <!-- location for bookmarked files -->
-    <string name="location_favorite">"書簽"</string>
+    <string name="location_favorite">書簽</string>
 
     <!-- location for recent changed files -->
-    <string name="location_recent_files">"最近存取的檔案"</string>
+    <string name="location_recent_files">最近存取的檔案</string>
 
     <!-- location for newly created files -->
-    <string name="location_new_files">"新文件"</string>
+    <string name="location_new_files">新文件</string>
 
     <!-- location for remote servers : ftp, ftps, nas, smb -->
-    <string name="location_remote">"遠端"</string>
+    <string name="location_remote">遠端</string>
 
     <!-- FTP -->
-    <string name="location_ftp">"FTP"</string>
+    <string name="location_ftp">FTP</string>
 
     <!-- SFTP -->
-    <string name="location_sftp">"SFTP"</string>
+    <string name="location_sftp">SFTP</string>
 
     <!-- FTPS -->
-    <string name="location_ftps">"FTPS"</string>
+    <string name="location_ftps">FTPS</string>
 
     <!-- location for local network : example) windows shared folders -->
-    <string name="location_lan">"區域網路"</string>
+    <string name="location_lan">區域網路</string>
 
     <!-- location for cloud like dropbox, google drive, onedrive -->
-    <string name="location_cloud">"雲端"</string>
+    <string name="location_cloud">雲端</string>
 
     <!-- dropbox -->
-    <string name="location_dropbox">"Dropbox"</string>
+    <string name="location_dropbox">Dropbox</string>
 
     <!-- google drive -->
-    <string name="location_googledrive">"Google Drive"</string>
+    <string name="location_googledrive">Google Drive</string>
 
     <!-- Microsoft OneDrive -->
-    <string name="location_onedrive">"OneDrive"</string>
+    <string name="location_onedrive">OneDrive</string>
 
     <!-- Yandex Disk -->
-    <string name="location_yandex">"Yandex"</string>
+    <string name="location_yandex">Yandex</string>
 
     <!-- Box cloud service -->
-    <string name="location_box">"Box"</string>
+    <string name="location_box">Box</string>
 
     <!-- location for installed apps -->
-    <string name="location_app">"應用程式"</string>
+    <string name="location_app">應用程式</string>
 
     <!-- location for versatile file management tools -->
-    <string name="location_tool">"工具 "</string>
+    <string name="location_tool">工具 </string>
 
     <!-- location to enable access files from the pc (need to be short) -->
-    <string name="location_server">"從電腦存取"</string>
+    <string name="location_server">從電腦存取</string>
 
     <!-- location for disk analysis -->
-    <string name="location_analysis">"磁碟分析"</string>
+    <string name="location_analysis">磁碟分析</string>
 
     <!-- archive (compressed file) viewer -->
-    <string name="location_archive_viewer">"文件檢視器"</string>
+    <string name="location_archive_viewer">文件檢視器</string>
 
 
     <!-- storage is not accessible by user now -->
-    <string name="storage_not_available">"無法存取"</string>
+    <string name="storage_not_available">無法存取</string>
 
     <!-- download folder -->
-    <string name="folder_downloads">"下載"</string>
+    <string name="folder_downloads">下載</string>
 
     <!-- backups folder -->
-    <string name="folder_backups">"備份"</string>
+    <string name="folder_backups">備份</string>
 
     <!-- camera folder -->
-    <string name="folder_camera">"相機"</string>
+    <string name="folder_camera">相機</string>
 
     <!-- documents folder -->
-    <string name="folder_documents">"文件"</string>
+    <string name="folder_documents">文件</string>
 
     <!-- music folder -->
-    <string name="folder_music">"音樂"</string>
+    <string name="folder_music">音樂</string>
 
     <!-- movies folder -->
-    <string name="folder_movies">"電影"</string>
+    <string name="folder_movies">電影</string>
 
     <!-- pictures folder -->
-    <string name="folder_pictures">"照片"</string>
+    <string name="folder_pictures">照片</string>
 
     <!-- screenshots folder-->
-    <string name="folder_screenshots">"螢幕截圖"</string>
+    <string name="folder_screenshots">螢幕截圖</string>
 
     <!-- podcasts download folder -->
-    <string name="folder_podcasts">"播客"</string>
+    <string name="folder_podcasts">播客</string>
 
     <!-- ringtones folder -->
-    <string name="folder_ringtones">"鈴聲"</string>
+    <string name="folder_ringtones">鈴聲</string>
 
     <!-- alarm audio files folder -->
-    <string name="folder_alarms">"提醒"</string>
+    <string name="folder_alarms">提醒</string>
 
     <!-- notification audio files folder -->
-    <string name="folder_notifications">"提示音"</string>
+    <string name="folder_notifications">提示音</string>
     
     <!-- tltle for opened windows -->
-    <string name="open_windows">"開啟視窗"</string>
+    <string name="open_windows">開啟視窗</string>
 
     <!-- title for create folder dialog -->
-    <string name="dialog_title_new_folder">"建立資料夾"</string>
+    <string name="dialog_title_new_folder">建立資料夾</string>
 
     <!-- title for create file dialog -->
-    <string name="dialog_title_new_file">"建立文件"</string>
+    <string name="dialog_title_new_file">建立文件</string>
 
     <!-- title for properties dialog -->
-    <string name="dialog_title_file_properties">"屬性"</string>
+    <string name="dialog_title_file_properties">屬性</string>
 
 
     <!-- title of dialog for compress operation  -->
-    <string name="dialog_title_compress_file">"壓縮"</string>
+    <string name="dialog_title_compress_file">壓縮</string>
 
     <!-- title of dialog for extract to some location operation  -->
-    <string name="dialog_title_extract_file">"解壓縮至"</string>
+    <string name="dialog_title_extract_file">解壓縮至</string>
 
     <!-- title of dialog to choose remote locations -->
-    <string name="dialog_title_choose_remote">"遠端"</string>
+    <string name="dialog_title_choose_remote">遠端</string>
 
     <!-- title of dialog to choose cloud locations -->
-    <string name="dialog_title_choose_cloud">"雲端"</string>
+    <string name="dialog_title_choose_cloud">雲端</string>
 
     <!-- title of dialog for download operation -->
-    <string name="dialog_title_download_file">"下載"</string>
+    <string name="dialog_title_download_file">下載</string>
 
     <!-- title of dialog for rename operation -->
-    <string name="dialog_title_rename_file">"重新命名"</string>
+    <string name="dialog_title_rename_file">重新命名</string>
 
     <!-- title of dialog for upload operation -->
-    <string name="dialog_title_upload_file">"上傳"</string>
+    <string name="dialog_title_upload_file">上傳</string>
 
     <!-- title of dialog for bookmark operation -->
-    <string name="dialog_title_bookmark">"書簽"</string>
+    <string name="dialog_title_bookmark">書簽</string>
 
     <!--title of dialog for delete files and other kinds of items -->
-    <string name="dialog_title_delete">"删除"</string>
+    <string name="dialog_title_delete">删除</string>
 
     <!--  title of dialog for add bookmark -->
-    <string name="dialog_title_add_bookmark">"新增書簽"</string>
+    <string name="dialog_title_add_bookmark">新增書簽</string>
 
     <!-- tile of dialog for history -->
-    <string name="dialog_title_history">"歷史紀錄"</string>
+    <string name="dialog_title_history">歷史紀錄</string>
 
     <!-- title of dialog for add to desktop -->
-    <string name="dialog_title_add_shortcut">"新增至桌面"</string>
+    <string name="dialog_title_add_shortcut">新增至桌面</string>
 
     <!-- title of dialog for network status -->
-    <string name="dialog_title_network_status">"網路狀態"</string>
+    <string name="dialog_title_network_status">網路狀態</string>
 
     <!-- (example) updating abcd.zip -->
-    <string name="dialog_title_zip_update">"更新 %s"</string>
+    <string name="dialog_title_zip_update">更新 %s</string>
 
     <!-- dialog title for choosing extract path -->
-    <string name="dialog_title_choose_extract_path">"選擇解壓縮方式"</string>
+    <string name="dialog_title_choose_extract_path">選擇解壓縮方式</string>
 
     <!-- dialog title for choosing local network -->
-    <string name="dialog_title_choose_local_network">"選擇區域網路"</string>
+    <string name="dialog_title_choose_local_network">選擇區域網路</string>
 
     <!-- dialog title for share via -->
-    <string name="dialog_title_share">"分享方式"</string>
+    <string name="dialog_title_share">分享方式</string>
 
     <!-- dialog title for hint or instructions to add sdcard location -->
-    <string name="dialog_title_hint">"提示"</string>
+    <string name="dialog_title_hint">提示</string>
 
     <!-- dialog title of confirm -->
-    <string name="dialog_title_confirm">"確認"</string>
+    <string name="dialog_title_confirm">確認</string>
 
     <!-- dialog tilte of failure results -->
-    <string name="dialog_title_failure">"失敗"</string>
+    <string name="dialog_title_failure">失敗</string>
 
     <!-- dialog button for overwrite file -->
-    <string name="dialog_button_overwrite">"覆蓋"</string>
+    <string name="dialog_button_overwrite">覆蓋</string>
 
     <!-- dialog button for skip copying file -->
-    <string name="dialog_button_skip">"略過"</string>
+    <string name="dialog_button_skip">略過</string>
 
     <!-- dialog button for renaming file -->
-    <string name="dialog_button_rename">"重新命名"</string>
+    <string name="dialog_button_rename">重新命名</string>
 
     <!-- dialog checkbox for apply to all files -->
-    <string name="dialog_button_apply_to_all">"套用至全部"</string>
+    <string name="dialog_button_apply_to_all">套用至全部</string>
 
     <!-- menu button to clear something. (example) clear history -->
-    <string name="menu_clear">"清除"</string>
+    <string name="menu_clear">清除</string>
 
     <!-- dialog button to add remote location -->
-    <string name="dialog_button_add_remote">"新增遠端位置"</string>
+    <string name="dialog_button_add_remote">新增遠端位置</string>
 
     <!-- dialog ubtton to add cloud location -->
-    <string name="dialog_button_add_cloud">"新增網路儲存設備"</string>
+    <string name="dialog_button_add_cloud">新增網路儲存設備</string>
 
     <!-- diallog button for cancel -->
-    <string name="dialog_button_cancel">"取消"</string>
+    <string name="dialog_button_cancel">取消</string>
 
     <!-- dialog button for paste files -->
-    <string name="dialog_button_paste">"貼上"</string>
+    <string name="dialog_button_paste">貼上</string>
 
     <!-- dialog button for hide dialog -->
-    <string name="dialog_button_hide">"隱藏"</string>
+    <string name="dialog_button_hide">隱藏</string>
 
     <!-- refresh button -->
-    <string name="dialog_button_refresh">"重新載入"</string>
+    <string name="dialog_button_refresh">重新載入</string>
 
     <!-- manual input for network information -->
-    <string name="dialog_button_manual_input">"手動輸入"</string>
+    <string name="dialog_button_manual_input">手動輸入</string>
 
     <!-- extract here button -->
-    <string name="dialog_button_extract_here">"解壓縮至這裡"</string>
+    <string name="dialog_button_extract_here">解壓縮至這裡</string>
 
     <!-- file type label in property dialog: type is folder or file-->
-    <string name="dialog_entry_type">"類型"</string>
+    <string name="dialog_entry_type">類型</string>
 
     <!-- file size label in properties dialog -->
-    <string name="dialog_entry_size">"大小"</string>
+    <string name="dialog_entry_size">大小</string>
 
     <!-- Contents of the folder in the properties dialog : ex) Contents - Folder : 626, File : 323 -->
-    <string name="dialog_entry_contents">"目錄"</string>
+    <string name="dialog_entry_contents">目錄</string>
 
     <!-- modified time label in properties dialog -->
-    <string name="dialog_entry_modified">"修改"</string>
+    <string name="dialog_entry_modified">修改</string>
 
     <!-- permissions label in properties dialog -->
-    <string name="dialog_entry_permissions">"權限"</string>
+    <string name="dialog_entry_permissions">權限</string>
 
     <!-- hidden file label in properties dialog -->
-    <string name="dialog_entry_hidden">"隱藏"</string>
+    <string name="dialog_entry_hidden">隱藏</string>
 
     <!-- file path label in properties dialog -->
-    <string name="dialog_entry_path">"路徑"</string>
+    <string name="dialog_entry_path">路徑</string>
 
     <!-- resolution label in properties dialog for image fies -->
-    <string name="dialog_entry_resolution">"解析度"</string>
+    <string name="dialog_entry_resolution">解析度</string>
 
     <!-- duration label in properties dialog for video or audio files -->
-    <string name="dialog_entry_duration">"持續時間"</string>
+    <string name="dialog_entry_duration">持續時間</string>
 
     <!-- network domain (ex:www.google.com) in network dialog -->
-    <string name="dialog_entry_domain">"網域名稱"</string>
+    <string name="dialog_entry_domain">網域名稱</string>
 
     <!-- network host (ex:www.google.com) in remote network dialog -->
-    <string name="dialog_entry_host">"主機"</string>
+    <string name="dialog_entry_host">主機</string>
 
     <!-- network port number label for network dialog -->
-    <string name="dialog_entry_port">"連接埠"</string>
+    <string name="dialog_entry_port">連接埠</string>
 
     <!-- random network port number for ftp server -->
-    <string name="dialog_entry_random_port">"隨機連接埠"</string>
+    <string name="dialog_entry_random_port">隨機連接埠</string>
 
     <!-- mode label for network dialog -->
-    <string name="dialog_entry_mode">"模式"</string>
+    <string name="dialog_entry_mode">模式</string>
 
     <!-- security mode label for network dialog -->
-    <string name="dialog_entry_security">"安全模式"</string>
+    <string name="dialog_entry_security">安全模式</string>
 
     <!-- username label for network dialog -->
-    <string name="dialog_entry_username">"用户名稱"</string>
+    <string name="dialog_entry_username">用户名稱</string>
 
     <!-- password label for password dialog -->
-    <string name="dialog_entry_password">"密碼"</string>
+    <string name="dialog_entry_password">密碼</string>
 
     <!-- anonymous username for ftp -->
-    <string name="dialog_entry_anonymous">"匿名"</string>
+    <string name="dialog_entry_anonymous">匿名</string>
 
     <!-- display name label for network location -->
-    <string name="dialog_entry_display">"顯示名稱"</string>
+    <string name="dialog_entry_display">顯示名稱</string>
 
     <!-- select a category for search -->
-    <string name="dialog_entry_category">"選擇類別"</string>
+    <string name="dialog_entry_category">選擇類別</string>
 
 
     <!-- search results nclude all files -->
-    <string name="dialog_entry_category_none">"全部"</string>
-    <string name="dialog_entry_category_picture">"照片"</string>
-    <string name="dialog_entry_category_image">"圖片"</string>
-    <string name="dialog_entry_category_music">"音樂"</string>
-    <string name="dialog_entry_category_audio">"音訊"</string>
-    <string name="dialog_entry_category_video">"影像"</string>
-    <string name="dialog_entry_category_document">"文檔"</string>
-    <string name="dialog_entry_category_archive">"檔案庫"</string>
-    <string name="filetype_others">"其他"</string>
+    <string name="dialog_entry_category_none">全部</string>
+    <string name="dialog_entry_category_picture">照片</string>
+    <string name="dialog_entry_category_image">圖片</string>
+    <string name="dialog_entry_category_music">音樂</string>
+    <string name="dialog_entry_category_audio">音訊</string>
+    <string name="dialog_entry_category_video">影像</string>
+    <string name="dialog_entry_category_document">文檔</string>
+    <string name="dialog_entry_category_archive">檔案庫</string>
+    <string name="filetype_others">其他</string>
 
     <!-- is file hidden yes -->
-    <string name="hidden_yes">"是"</string>
+    <string name="hidden_yes">是</string>
 
     <!-- is file hidden no -->
-    <string name="hidden_no">"否"</string>
+    <string name="hidden_no">否</string>
 
     <!-- file has read permission -->
-    <string name="permission_read">"讀取"</string>
+    <string name="permission_read">讀取</string>
 
     <!-- file has write permission -->
-    <string name="permission_write">"寫入"</string>
+    <string name="permission_write">寫入</string>
 
     <!-- wifi status -->
-    <string name="server_wifi_status">"Wi-Fi 狀態"</string>
+    <string name="server_wifi_status">Wi-Fi 狀態</string>
 
     <!-- start button to start process to enable ftp service  -->
-    <string name="server_button_start">"開始"</string>
+    <string name="server_button_start">開始</string>
 
     <!-- stop button to stop ftp service -->
-    <string name="server_button_stop">"停止服務"</string>
+    <string name="server_button_stop">停止服務</string>
 
     <!-- connect button to wifi access point -->
-    <string name="server_button_connect_to_wifi">"連接"</string>
+    <string name="server_button_connect_to_wifi">連接</string>
     
     <!-- msg for instructions to access file from pc -->
-    <string name="server_msg_follow_instructions">"請按照下面指示來存取 PC 上的儲存裝置"</string>
+    <string name="server_msg_follow_instructions">請按照下面指示來存取 PC 上的儲存裝置</string>
 
-    <string name="server_msg_connect_to_wifi">"服務啟動前連 Wi-Fi"</string>
-    <string name="server_msg_start_service">"啟動服務以便從 PC 從取資料"</string>
-    <string name="server_msg_enter_address">"請在 PC 的網頁瀏覽器上輸入網址"</string>
+    <string name="server_msg_connect_to_wifi">服務啟動前連 Wi-Fi</string>
+    <string name="server_msg_start_service">啟動服務以便從 PC 從取資料</string>
+    <string name="server_msg_enter_address">請在 PC 的網頁瀏覽器上輸入網址</string>
     
-    <string name="dialog_hint_host">"例如 : 192.168.1.101"</string>
-    <string name="dialog_hint_host_and_root">"例如: 192.168.1.101 or 192.168.1.101/Folder"</string>
+    <string name="dialog_hint_host">例如 : 192.168.1.101</string>
+    <string name="dialog_hint_host_and_root">例如: 192.168.1.101 or 192.168.1.101/Folder</string>
 
     <!-- show this entry is optional field -->
-    <string name="dialog_hint_optional">"可選的"</string>
+    <string name="dialog_hint_optional">可選的</string>
 
     <!-- message to confirm uninstall apps -->
-    <string name="msg_uninstall_app">"是否卸除此應用程式?"</string>
+    <string name="msg_uninstall_app">是否卸除此應用程式?</string>
 
     <!-- message for overwrite existing file confirm dialog -->
-    <string name="msg_overwrite_file">"%s 已存在，是否覆蓋？"</string>
+    <string name="msg_overwrite_file">%s 已存在，是否覆蓋？</string>
 
     <!-- error message for file copy to subfolder of original folder -->
-    <string name="msg_subfolder_of_source">"目標資料夾是原始資料夾的子資料夾"</string>
+    <string name="msg_subfolder_of_source">目標資料夾是原始資料夾的子資料夾</string>
 
     <!-- error message for source and targe is same -->
-    <string name="msg_is_same_file">"目標與來源相同"</string>
+    <string name="msg_is_same_file">目標與來源相同</string>
 
     <!-- error message for name is used by other folder and source is file -->
-    <string name="msg_same_folder_name_differnt_type">"已經有一個與來源文件同名的資料夾"</string>
+    <string name="msg_same_folder_name_differnt_type">已經有一個與來源文件同名的資料夾</string>
 
     <!-- error message for name is used by other file and source is folder -->
-    <string name="msg_same_file_name_differnt_type">"已經有一個與源資料夾名同名的文件"</string>
+    <string name="msg_same_file_name_differnt_type">已經有一個與源資料夾名同名的文件</string>
 
     <!-- error message for destination file or folder is already exists -->
-    <string name="dialog_msg_file_exists">"目的檔案已存在"</string>
+    <string name="dialog_msg_file_exists">目的檔案已存在</string>
 
     <!-- success message for creating folder -->
-    <string name="dialog_msg_create_folder_success">"資料夾建立成功"</string>
+    <string name="dialog_msg_create_folder_success">資料夾建立成功</string>
 
     <!-- failure message for creating folder -->
-    <string name="dialog_msg_create_folder_failure">"無法建立文件夹"</string>
+    <string name="dialog_msg_create_folder_failure">無法建立文件夹</string>
 
     <!-- success message for creating file -->
-    <string name="dialog_msg_create_file_success">"檔案建立成功"</string>
+    <string name="dialog_msg_create_file_success">檔案建立成功</string>
 
     <!-- failure message for creating file -->
-    <string name="dialog_msg_create_file_failure">"無法建立檔案"</string>
+    <string name="dialog_msg_create_file_failure">無法建立檔案</string>
 
     <!-- success message for renaming file -->
-    <string name="dialog_msg_rename_file_success">"重新命名成功"</string>
+    <string name="dialog_msg_rename_file_success">重新命名成功</string>
 
     <!-- failure message for renaming file -->
-    <string name="dialog_msg_rename_file_failure">"重新命名失败"</string>
+    <string name="dialog_msg_rename_file_failure">重新命名失败</string>
 
-    <string name="dialog_msg_add_bookmark_success">"書籤新增成功"</string>
-    <string name="dialog_msg_delete_bookmark_success">"書籤「%s」删除成功"</string>
-    <string name="dialog_msg_rename_bookmark_success">"重新命名成功"</string>
+    <string name="dialog_msg_add_bookmark_success">書籤新增成功</string>
+    <string name="dialog_msg_delete_bookmark_success">書籤「%s」删除成功</string>
+    <string name="dialog_msg_rename_bookmark_success">重新命名成功</string>
 
-    <string name="dialog_msg_connecting">"接收連線資料中 ..."</string>
-    <string name="dialog_msg_connected">"Wi-Fi 已連上 %s"</string>
-    <string name="dialog_msg_connecting_to">"正在連線到 %s"</string>
-    <string name="dialog_msg_wifi_available">"%s 是可用的"</string>
-    <string name="dialog_msg_not_connected">"Wi-Fi 沒有連線"</string>
-    <string name="dialog_msg_service_stop">"服務即將停止"</string>
-    <string name="wifi">"Wi-Fi"</string>
+    <string name="dialog_msg_connecting">接收連線資料中 ...</string>
+    <string name="dialog_msg_connected">Wi-Fi 已連上 %s</string>
+    <string name="dialog_msg_connecting_to">正在連線到 %s</string>
+    <string name="dialog_msg_wifi_available">%s 是可用的</string>
+    <string name="dialog_msg_not_connected">Wi-Fi 沒有連線</string>
+    <string name="dialog_msg_service_stop">服務即將停止</string>
+    <string name="wifi">Wi-Fi</string>
 
     <!-- msg for preparing delete files -->
-    <string name="dialog_msg_prepare_delete">"準備刪除文件 ..."</string>
+    <string name="dialog_msg_prepare_delete">準備刪除文件 ...</string>
 
     <!-- storage analysis -->
-    <string name="storage_analysis">"儲存空間分析"</string>
+    <string name="storage_analysis">儲存空間分析</string>
 
     <!-- button to start storage anlysis -->
-    <string name="analyze">"分析"</string>
-    <string name="analysis_folder">"%d 資料夾"</string>
-    <string name="analysis_folders">"%d 資料夾"</string>
-    <string name="analysis_file">"%d 檔案"</string>
-    <string name="analysis_files">"%d 檔案"</string>
+    <string name="analyze">分析</string>
+    <string name="analysis_folder">%d 資料夾</string>
+    <string name="analysis_folders">%d 資料夾</string>
+    <string name="analysis_file">%d 檔案</string>
+    <string name="analysis_files">%d 檔案</string>
 
     <!-- Indicate available size of storage. ex. '3.54 GB free' -->
-    <string name="free_size">"%s 可用空間"</string>
+    <string name="free_size">%s 可用空間</string>
 
     <!-- Indicate used percent of storage. ex. '95% used'-->
-    <string name="used_percent">"%s 已使用"</string>
+    <string name="used_percent">%s 已使用</string>
 
     <!-- title for large files list -->
-    <string name="large_files">"大型檔案"</string>
+    <string name="large_files">大型檔案</string>
 
     <!-- description of large files ex) Files larger than 10MB -->
-    <string name="large_files_desc">"大小超過 %s 的檔案"</string>
+    <string name="large_files_desc">大小超過 %s 的檔案</string>
 
     <!-- title for large folders list -->
-    <string name="large_folders">"大型資料夾"</string>
+    <string name="large_folders">大型資料夾</string>
     <!-- description of large folders ex) Folders larger than 10MB -->
-    <string name="large_folders_desc">"容量比 %s 還大的資料夾"</string>
+    <string name="large_folders_desc">容量比 %s 還大的資料夾</string>
 
-    <string name="newly_created_files">"新建立的檔案"</string>
+    <string name="newly_created_files">新建立的檔案</string>
     <!-- ex) Files created within 7 days -->
-    <string name="newly_created_files_desc">"%d 天内建立的檔案"</string>
+    <string name="newly_created_files_desc">%d 天内建立的檔案</string>
 
     <!-- Cache files for apps -->
-    <string name="app_caches">"暫存檔"</string>
+    <string name="app_caches">暫存檔</string>
     <!-- description of cache files -->
-    <string name="app_caches_desc">"暫存檔是您的應用程式臨時建立的檔案"</string>
+    <string name="app_caches_desc">暫存檔是您的應用程式臨時建立的檔案</string>
 
     <!-- Title of dialog asking user to confirm before clearing all caches. [CHAR LIMIT=48] -->
-    <string name="clear_cache_title">"是否删除暫存檔？"</string>
+    <string name="clear_cache_title">是否删除暫存檔？</string>
     <!-- Message of dialog asking user to confirm before clearing all caches. [CHAR LIMIT=48] -->
-    <string name="clear_cache_message">"即將刪除所有應用程式的暫存檔"</string>
+    <string name="clear_cache_message">即將刪除所有應用程式的暫存檔</string>
 
     <!-- button to browse files -->
-    <string name="browse">"瀏覽"</string>
+    <string name="browse">瀏覽</string>
 
     <!-- button to open file -->
-    <string name="open">"開啟"</string>
+    <string name="open">開啟</string>
 
-    <string name="loading">"載入中 ..."</string>
-    <string name="deleting">"刪除中 ..."</string>
-    <string name="delete_failed">"刪除失敗"</string>
-    <string name="delete_cancelled">"删除取消"</string>
-    <string name="copy_failed">"複製失敗"</string>
-    <string name="move_failed">"移動失敗"</string>
+    <string name="loading">載入中 ...</string>
+    <string name="deleting">刪除中 ...</string>
+    <string name="delete_failed">刪除失敗</string>
+    <string name="delete_cancelled">删除取消</string>
+    <string name="copy_failed">複製失敗</string>
+    <string name="move_failed">移動失敗</string>
 
     <!-- Message of notification. The app is playing multimedia (video or audio) file. -->
-    <string name="playing_multimedia">"播放多媒體"</string>
+    <string name="playing_multimedia">播放多媒體</string>
 
     <!-- Use this string to rename when name is already exists.. abc.zip -. abc - Copy.zip -->
-    <string name="copy_postfix">" - 複製"</string>
-    <string name="extracted">"%s 解壓縮成功"</string>
-    <string name="extract_failed">"%s 解接縮失敗"</string>
+    <string name="copy_postfix"> - 複製</string>
+    <string name="extracted">%s 解壓縮成功</string>
+    <string name="extract_failed">%s 解接縮失敗</string>
     <!-- file or folder is empty : adjective -->
-    <string name="empty">"尚無資料"</string>
+    <string name="empty">尚無資料</string>
      <!-- folder is empty : adjective  -->
-    <string name="empty_folder">"空的資料夾"</string>
-    <string name="loading_error">"載入失敗"</string>
-    <string name="check_network">"請檢查您的網路"</string>
-    <string name="access_denied">"拒絕存取"</string>
-    <string name="icon">"圖示"</string>
-    <string name="extract_here">"解壓縮到此"</string>
-    <string name="extract_to">"解壓縮到 ..."</string>
-    <string name="extract_to_file_name">"解壓縮到 %s"</string>
+    <string name="empty_folder">空的資料夾</string>
+    <string name="loading_error">載入失敗</string>
+    <string name="check_network">請檢查您的網路</string>
+    <string name="access_denied">拒絕存取</string>
+    <string name="icon">圖示</string>
+    <string name="extract_here">解壓縮到此</string>
+    <string name="extract_to">解壓縮到 ...</string>
+    <string name="extract_to_file_name">解壓縮到 %s</string>
 
     <!-- ftp server terms : don't translate when you not sure what it is -->
     <string name="active">Active</string>
@@ -640,8 +640,8 @@
     <string name="uninstalled">%d 個 app 解安裝成功</string>
     <string name="backed_up_one">已備份 app 到 %s</string>
     <string name="backed_up">已備份 app 到 %s</string>
-    <string name="port_in_use">%d 阜正在使用，請選擇其他連接阜"</string>
-    <string name="enter_port_number">"请输入端口号."</string>
+    <string name="port_in_use">%d 阜正在使用，請選擇其他連接阜</string>
+    <string name="enter_port_number">请输入端口号.</string>
     <string name="invalid_username_password">帳號或密碼錯誤</string>
     <string name="connection_failed_with_user">無法使用 %2$s 連線到伺服器 %1$s</string>
     <string name="connection_failed">無法連線到 %s</string>
@@ -684,8 +684,8 @@
     <string name="progress_count">進度: %s</string>
 
     <!-- Shows how many file operations are running. If there are 2 copy operations are running, it shows "Running jobs : 2" -->
-    <string name="running_progress_size">正在進行的動作: %d"</string>
-    <string name="file_size">"%1$s\n(%2$s bytes)"</string>
+    <string name="running_progress_size">正在進行的動作: %d</string>
+    <string name="file_size">%1$s\n(%2$s bytes)</string>
     <string name="folder_name_cannot_be_empty">資料夾名稱不可為空白</string>
     <string name="file_name_cannot_be_empty">檔案名稱不可為空白</string>
 
@@ -712,9 +712,9 @@
     <string name="document_tree_for_operation_usb">需要您的授權，才能存取 USB 儲存空間</string>
 
     <string name="include_system_apps">您所選擇的應用程式包含系統用的應用程式</string>
-    <string name="file_count">"資料夾： %1$d，檔案： %2$d</string>
+    <string name="file_count">資料夾： %1$d，檔案： %2$d</string>
     <string name="delete_file_count">資料夾： %1$d，檔案： %2$d，大小：%3$s</string>
-    <string name="delete_file_size">"大小： %s</string>
+    <string name="delete_file_size">大小： %s</string>
     <string name="prepare_paste_information">準備移動檔案中 ...</string>
     <string name="preparing">準備中 ...</string>
 
@@ -746,7 +746,7 @@
     <string name="rate_never">不再顯示</string>
     
     <string name="back_again_to_exit">再按一次離開</string>
-    <string name="download_app_to_open_files">"下載 %1$s 以便開啟 %2$s</string>
+    <string name="download_app_to_open_files">下載 %1$s 以便開啟 %2$s</string>
     <string name="download_action">下載</string>
 
     <!-- ex: Main Storage is full (98%) or Sd card is full (95%) -->
@@ -893,8 +893,8 @@
     <string name="usb_storage_used_as_mass_storage">內建儲存哭間已被作為儲存裝置使用</string>
 
     <!-- Not Used Anymore -->
-    <string name="clipboard">"%1$s、%2$s 和 %3$d 等檔案</string>
-    <string name="clipboard_one">"%1$s 檔案 %2$s"</string>
+    <string name="clipboard">%1$s、%2$s 和 %3$d 等檔案</string>
+    <string name="clipboard_one">%1$s 檔案 %2$s</string>
     <string name="desktop_add">新增路徑</string>
     <string name="dialog_hint_domain">網域名稱 (選填)</string>
 
