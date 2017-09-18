@@ -204,7 +204,7 @@
     <string name="location_lan">區域網路</string>
 
     <!-- location for cloud like dropbox, google drive, onedrive -->
-    <string name="location_cloud">雲端</string>
+    <string name="location_cloud">雲端服務</string>
 
     <!-- dropbox -->
     <string name="location_dropbox">Dropbox</string>
@@ -299,7 +299,7 @@
     <string name="dialog_title_choose_remote">遠端</string>
 
     <!-- title of dialog to choose cloud locations -->
-    <string name="dialog_title_choose_cloud">雲端</string>
+    <string name="dialog_title_choose_cloud">雲端服務</string>
 
     <!-- title of dialog for download operation -->
     <string name="dialog_title_download_file">下載</string>
