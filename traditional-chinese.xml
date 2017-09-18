@@ -455,7 +455,7 @@
     <string name="dialog_entry_category_image">圖片</string>
     <string name="dialog_entry_category_music">音樂</string>
     <string name="dialog_entry_category_audio">音訊</string>
-    <string name="dialog_entry_category_video">影像</string>
+    <string name="dialog_entry_category_video">圖片</string>
     <string name="dialog_entry_category_document">文檔</string>
     <string name="dialog_entry_category_archive">檔案庫</string>
     <string name="filetype_others">其他</string>
