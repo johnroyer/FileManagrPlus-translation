@@ -132,13 +132,13 @@
     <string name="location_system">系统</string>
 
     <!-- Main storage location -->
-    <string name="location_mainstorage">主要儲存位置</string>
+    <string name="location_mainstorage">內建儲存空間</string>
 
     <!-- sdcard location -->
     <string name="location_sdcard">SD 卡</string>
 
     <!-- device's internal storage -->
-    <string name="location_internal_storage">内部儲存設備</string>
+    <string name="location_internal_storage">内部儲存空間</string>
 
     <!-- download folder location -->
     <string name="location_download">下載</string>
