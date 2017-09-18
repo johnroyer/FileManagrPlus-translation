@@ -790,19 +790,19 @@
     </plurals>
 
     <!-- Result message for deleting single item -->
-    <string name="deleted_single_item">"'%s'已删除"</string>
+    <string name="deleted_single_item">%s 項已删除</string>
     <plurals name="deleted_items_plurals">
-        <item quantity="one">"总共%1$d项已删除"</item>
-        <item quantity="other">"总共%1$d项已删除"</item>
+        <item quantity="one">總共 %1$d 項已删除</item>
+        <item quantity="other">總共 %1$d 項已删除</item>
     </plurals>
-    <string name="confirm_delete_item">"你确定要删除'%s'?"</string>
+    <string name="confirm_delete_item">您確定要删除「%s」？</string>
     <plurals name="confirm_delete_items_plurals">
-        <item quantity="one">"你确定要删除%d项?"</item> <!-- 11 is in this case in russian -->
-        <item quantity="other">"你确定要删除%d项?"</item>
+        <item quantity="one">您確定定要删除 %d 項？</item> <!-- 11 is in this case in russian -->
+        <item quantity="other">您確定要删除 %d 項？</item>
     </plurals>
     <plurals name="num_items_plurals">
-        <item quantity="one">"1 项"</item>
-        <item quantity="other">"%d 项"</item>
+        <item quantity="one">1 項</item>
+        <item quantity="other">%d 項</item>
 	</plurals>
 
     <!-- label for unknown number of items. "1 item", "2 items" for know number. "- items" for unknown numbers -->
