@@ -1,6 +1,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Name : This is file manager app. It is following terms in the microsoft explorer program in windows PC. -->
-    <string name="app_name">文件管理器+</string>
+    <string name="app_name">File Manager +</string>
 
     <!-- folder -->
     <string name="filetype_folder">資料夾</string>
