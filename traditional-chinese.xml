@@ -231,7 +231,7 @@
     <string name="location_server">從電腦存取</string>
 
     <!-- location for disk analysis -->
-    <string name="location_analysis">磁碟分析</string>
+    <string name="location_analysis">儲存空間分析</string>
 
     <!-- archive (compressed file) viewer -->
     <string name="location_archive_viewer">文件檢視器</string>
